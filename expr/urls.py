@@ -28,4 +28,8 @@ urlpatterns = [
     path('dg',ask_dog, name='dog'),
     path('ct',ask_cat, name='cat'),
     path('information/<int:id>',info, name='info'),
-] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+] 
+
+
+if settings.DEBUG:
+    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
