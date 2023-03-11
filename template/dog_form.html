@@ -1,0 +1,171 @@
+{% load static %}
+<!DOCTYPE html>
+<!--
+Template Name: Lolwork
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+<head>
+<title>Expert System</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="{% static 'styles/layout.css' %}" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <h1><a href="index.html">Livestock & Pet</a></h1>
+      <p>Expert System</p>
+    </div>
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_right">
+      <ul class="clear">
+        <li class="active"><a href="{% url 'home'%}">Home</a></li>
+        <li><a class="drop" href="#">Animals</a>
+          <ul>
+            <li><a href="{% url 'goat'%}">Goat</a></li>
+            <li><a href="{% url 'chicken'%}">Chicken</a></li>
+            <li><a href="{% url 'cow'%}">Cow</a></li>
+            <li><a href="{% url 'dog'%}">Dog</a></li>
+            <li><a href="{% url 'cat'%}">Cat</a></li>
+          </ul>
+        </li>
+        
+      </ul>
+    </nav>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper bgded overlay" style="background-image:url('https://drive.google.com/uc?export=view&id=1UDrsjCKw6vQ-U0_DnCTZDMdOsF0KNail');">
+  <div id="pageintro" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <article>
+      <h2 class="heading">DOG</h2>
+      
+      <footer><a class="btn" href="#">Check it out</a></footer>
+    </article>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="center btmspace-50">
+      <h2 class="heading">Symptoms</h2>
+      <p>Select the symptoms that your dog is having</p>
+    </div>
+    <ul class="nospace group btmspace-50">
+      
+      <form method="POST">
+        {% csrf_token %}
+        <table>
+        <td><input type="checkbox" value="lumps" name="symptom"><label>lumps</label></td>
+        <td><input type="checkbox" value="swelling" name="symptom"><label>swelling</label></td>
+        <td><input type="checkbox" value="skin infection" name="symptom"><label>skin infection</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="weight loss" name="symptom"><label>weight loss</label></td>
+        <td><input type="checkbox" value="lethargy" name="symptom"><label>lethargy</label></td>
+        <td><input type="checkbox" value="diarrhea" name="symptom"><label>diarrhea</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="loss of appetite" name="symptom"><label>loss of appetite</label></td>
+        <td><input type="checkbox" value="change in appetite" name="symptom"><label>change in appetite</label></td>
+        <td><input type="checkbox" value="excessive thirst" name="symptom"><label>excessive thirst</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="increased urination" name="symptom"><label>increased urination</label></td>
+        <td><input type="checkbox" value="dehydration" name="symptom"><label>dehydration</label></td>
+        <td><input type="checkbox" value="gagging" name="symptom"><label>gagging</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="cough" name="symptom"><label>cough</label></td>
+        <td><input type="checkbox" value="fever" name="symptom"><label>fever</label></td>
+        <td><input type="checkbox" value="nasal discharge" name="symptom"><label>nasal discharge</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="vomiting" name="symptom"><label>vomiting</label></td>
+        <td><input type="checkbox" value="bloody diarrhea" name="symptom"><label>bloody diarrhea</label></td>
+        <td><input type="checkbox" value="breathing difficulties" name="symptom"><label>breathing difficulties</label></td>
+        </tr>
+        <tr>
+        <td><input type="checkbox" value="depression" name="symptom"><label>depression</label></td>
+        <td><input type="checkbox" value="changes in behavior" name="symptom"><label>changes in behavior</label></td>
+        <td><input type="checkbox" value="weakness" name="symptom"><label>weakness</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="paralysis" name="symptom"><label>paralysis</label></td>
+        <td><input type="checkbox" value="seizure" name="symptom"><label>seizure</label></td>
+        <td><input type="checkbox" value="death" name="symptom"><label>death</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="skin lesions" name="symptom"><label>Skin lesions</label></td>
+        <td><input type="checkbox" value="bald patches" name="symptom"><label>bald patches</label></td>
+        <td><input type="checkbox" value="itchiness" name="symptom"><label>itchiness</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="pain" name="symptom"><label>pain</label></td>
+          <td><input type="checkbox" value="odor" name="symptom"><label>odor</label></td>
+          <td><input type="checkbox" value="scabs" name="symptom"><label>scabs</label></td>
+        </tr>
+        <tr>
+          <td><input type="checkbox" value="swelling or redness in the ear canal" name="symptom"><label>swelling or redness in the ear canal</label></td>
+        </tr>
+        
+        </table>
+        <center><button type="submit" class="btn" class="center nospace">submit</button></center>
+      </form>
+    </ul>
+    
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+    
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2022 - All Rights Reserved - <a href="#">Fagoroye Ayomide</a></p>
+    <p class="fl_right">Final year project</a></p>
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="{% static 'scripts/jquery.min.js' %}"></script>
+<script src="{% static 'scripts/jquery.backtotop.js' %}"></script>
+<script src="{% static 'scripts/jquery.mobilemenu.js' %}"></script>
+<!-- IE9 Placeholder Support -->
+<script src="{% static 'scripts/jquery.placeholder.min.js' %}"></script>
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>

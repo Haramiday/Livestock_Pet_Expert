@@ -1,0 +1,122 @@
+{% load static %}
+<!DOCTYPE html>
+<!--
+Template Name: Lolwork
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+<head>
+<title>Expert System</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="{% static 'styles/layout.css' %}" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div id="logo" class="fl_left">
+      <h1><a href="{% url 'home'%}">Livestock & Pet</a></h1>
+      <p>Expert System</p>
+    </div>
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_right">
+      <ul class="clear">
+        <li class="active"><a href="{% url 'home'%}">Home</a></li>
+        <li><a class="drop" href="#">Animals</a>
+          <ul>
+            <li><a href="{% url 'goat'%}">Goat</a></li>
+            <li><a href="{% url 'chicken'%}">Chicken</a></li>
+            <li><a href="{% url 'cow'%}">Cow</a></li>
+            <li><a href="{% url 'dog'%}">Dog</a></li>
+            <li><a href="{% url 'cat'%}">Cat</a></li>
+            
+          </ul>
+        </li>
+        
+      </ul>
+    </nav>
+    <!-- ################################################################################################ -->
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    
+    
+    <center><h1>{{ info.name }}</h1></center>
+    
+    
+      <table>
+        <tr>
+      {% for image in a_image %}
+      <th>
+     
+        
+          <figure><img src="{{image}}" alt="" style="width: 200px; height: 200px;">
+          </figure>
+      
+    </th>
+      {% endfor %}
+    </tr>
+    <tr>
+      {% for name in a_name %}
+      <th>
+     
+        
+          <figure><p>{{name}}</p>
+          </figure>
+      
+    </th>
+      {% endfor %}
+    </tr>
+      </table>
+    
+    
+    
+    <div class="clear">
+      <center><p>{{ info.info }}</p></center>
+      <br>
+    </div>
+  </main>
+</div>
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2022 - All Rights Reserved - <a href="#">Fagoroye Ayomide</a></p>
+    <p class="fl_right">Final year project</a></p>
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="{% static 'scripts/jquery.min.js' %}"></script>
+<script src="{% static 'scripts/jquery.backtotop.js' %}"></script>
+<script src="{% static 'scripts/jquery.mobilemenu.js' %}"></script>
+<!-- IE9 Placeholder Support -->
+<script src="{% static 'scripts/jquery.placeholder.min.js' %}"></script>
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>
