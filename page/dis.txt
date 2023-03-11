@@ -1,0 +1,985 @@
+GOAT
+Anthrax
+symptoms	
+Sudden fever and death
+Dark color bloody discharge from the natural orifice such as nose, anus and vagina	
+
+prevention and control
+Vaccination once in a year in affected area
+Disposal of carcass either by burying or burning
+Don’t open the carcass as the germ spread through air
+
+Haemorrhagic Septicemia	
+symptoms
+Fever, dysentery, swelling of lower mandible and death
+More occurrence in rainy season	
+
+prevention and control
+Vaccinate the animal once in a year before onset of rainy season
+
+Brucellosis	
+symptoms
+Abortion during late pregnancy, infertility, scrotal swelling in male, joint swelling	
+
+prevention and control
+Disposal of dead foetus and placenta
+Use gloves while handling infected items as it affect human beings
+
+Enterotoxaemia	
+symptoms
+Sudden death in young growing kids. Mucous diarrhea may also seen during death	
+
+prevention and control
+Vaccinate the animals once in a year before the onset of monsoon
+Don’t feed on young grass
+
+Pneumonia	
+symptoms
+Fever, respiratory distress, mucous discharge from nostril, reduced feed intake and weight gain, cough	
+
+prevention and control
+Clean water
+well ventilated house
+
+Foot rot	
+symptoms
+Wound in foot region	
+
+prevention and control
+Keep the animal in dry clean house
+
+Mastitis	
+symptoms
+Swelling of udder, change in milk	
+
+prevention and control
+Clean shed
+wash the udder with disinfectant solution
+
+Peste Des Petits Ruminants (PPR)	
+symptoms
+Fever, Occular and nasal mucous discharge, mouth lesion, respiratory distress	
+prevention and control
+Yearly vaccination
+Separation of infected one from healthy animals
+
+Foot and Mouth Disease	
+symptoms
+Fever, wound lesion in foot and mouth, excess salivary secretion, difficult in walking	
+prevention and control
+First vaccination at 3rd moth and then once in 4-6 months interval
+
+Goat Pox	
+symptoms
+Fever, Occular and nasal mucous discharge, respiratory distress, pox lesion in un hairy parts such as lips, thigh udder etc	
+prevention and control
+Yearly vaccination
+
+Fluke infection	
+symptoms
+Emaciation, anaemia, edema in lower jaw	
+prevention and control
+Control of snails
+avoid grazing in early morning and late evening
+deworming of animals periodically
+
+Tape worm	
+symptoms
+Reduced growth, fever, kid mortality	
+prevention and control
+Deworming of animals periodically
+
+Round worm	
+symptoms
+Fever, anaemia, edema in lower jaw, reduced growth	
+prevention and control
+deworming of animals periodically
+
+Coccidiosis	
+symptoms
+Blood tinged brownish diarrhea, anaemia, kid mortality	
+prevention and control
+Clean house
+spray of 10% ammonia solution
+administration of anticoccidial drugs
+
+Tick, lice etc	
+symptoms
+Reduced growth, skin allergy and wound	
+prevention and control
+Clean house
+periodical dipping
+
+
+CHICKEN
+
+Fowl Cholera
+symptoms
+In acute cases birds may die without showing any symptom. In less severe form breathing rapid- open beak, feather ruffled, comb and wattle become cyanotic. There may be yellowish diarrhoea. In chronic form swollen comb and wattle, joints hot and painful. In duck acute haemorrhagic enteritis and oozing of blood from oral cavity noticed. Sudden death will be occurring.
+prevention and control
+Good management practices, including a high level of biosecurity, are essential to prevention.
+Treatment: Sulpha drugs and TMP combination, Enrofloxacin are effective. Drugs like Flamequin, Ampicillin, Chloramphenicol, Chlortetracycline and Novobiocin are also used.
+
+Pullorum disease
+symptoms
+Chicks hatched from infected egg, moribund or dead chick may be seen in the incubator. Sometimes disease is not seen for 5-10 days. Peak mortality during second or third week. Affected birds may exhibit a shrill cry when voiding excreta, which is white or greenish brown. Infection spread within the flock for a long time without any distinct signs. Reduction in egg production, fertility and hatchability.
+prevention and control
+No treatment is likely to effect complete elimination of carrier from infected birds.
+Sulphadiazine, Sulphamerazine, sulphapyrazine, Sulphamethazine are the most effective in chicken (not in turkey poults). Furazolidone is effective. Also chloramphenicol, colistin and apromycin are effective. No vaccination practised and all positive birds may be disposed off by slaughter. Birds recently vaccinated with S. gallinarum (9R) may give low titre. Since Tran ovarian transmission of organism is there, only eggs from salmonella free flock should be used for hatching.
+
+Fowl typhoid
+symptoms
+Chicks hatched from infected egg, moribund or dead chick may be seen in the incubator. Sometimes disease is not seen for 5-10 days. Peak mortality during second or third week. Affected birds may exhibit a shrill cry when voiding excreta, which is white or greenish brown. Infection spread within the flock for a long time without any distinct signs. Reduction in egg production, fertility and hatchability. Birds show diarrhea and greenish faeces and systemic disturbances.
+prevention and control
+Biosecurity, clean chicks. As with other salmonellae, recovered birds are resistant to the effects of infection but may remain carriers.
+Amoxycillin, potentiated sulponamide, tetracylines, fluoroquinolones, Sulpha-TMP drugs, Quinelone group are used. Nitrofurans (Furazolidone) are used with some success.
+
+
+Infectious coryza
+symptoms
+Affects  upper respiratory tract, sero mucoid nasal and occular discharges and facial oedema, conjunctivitis with closed eyes.
+prevention and control
+Prompt antimicrobial treatment with supportive care of infected birds to aid recovery
+Sound management practices and vaccination can help prevent infection
+Sulpha drugs plus TMP, streptomycin, tetracycline, chloramphenicol, quinolone 2nd   generation.
+
+Chronic respiratory disease
+symptoms
+Nasal discharge, shaking of head, coughing, swelling of the orbital sinuses and tracheal rales. Loss of weight, reduction in egg production and fertility, mortality low.
+prevention and control
+
+Chlortetracycline, tylosin, streptomycin, erythromycin or lincomycin can be tried. But some strains are resistant to tylosin, streptomycin, erythromycin or spiromycin. Dipping of egg prior to hatching in tylosin or chlortetracycline is advised for controlling the infection.
+
+Avian infectious bronchitis
+symptoms
+respiratory signs including gasping, coughing, sneezing, tracheal rales, and nasal discharge. In young chickens, severe respiratory distress may occur. In layers, respiratory distress, nephritis, decrease in egg production, and loss of internal (watery egg white) and external (fragile, soft, irregular or rough shells, shell-less) egg quality are reported.
+prevention and control
+No specific treatment is available, but antibiotics can be used to prevent secondary infections.
+Different vaccine formulations are available (ATCvet codes: QI01AA03 (WHO) for the inactivated vaccines, typically oil-emulsioned and combined with other avian pathogens, and QI01AD07 (WHO) for the active (live) lyophilized strain vaccines, such as H120 and Ma5.
+Biosecurity protocols, including adequate distancing of flocks, isolation and disinfection are important in controlling the spread of the infection and disease.
+
+Mareks disease
+symptoms
+With vagus nerve involvement, difficulty breathing, depression, paralysis, and death
+prevention and control
+No specific treatment is available, but antibiotics can be used to prevent secondary infections.
+Different vaccine formulations are available (ATCvet codes: QI01AA03 (WHO) for the inactivated vaccines, typically oil-emulsioned and combined with other avian pathogens, and QI01AD07 (WHO) for the active (live) lyophilized strain vaccines, such as H120 and Ma5.
+Biosecurity protocols, including adequate distancing of flocks, isolation and disinfection are important in controlling the spread of the infection and disease.
+
+Newcastle disease
+symptoms
+An infected bird may exhibit several signs, including respiratory signs (gasping, coughing), nervous signs (depression, inappetence, muscular tremors, drooping wings, twisting of head and neck, circling, complete paralysis), swelling of the tissues around the eyes and neck, greenish, watery diarrhea, misshapen, rough- or thin-shelled eggs and reduced egg production.
+In acute cases, the death is very sudden, and, in the beginning of the outbreak, the remaining birds do not seem to be sick.
+prevention and control
+Any animals showing symptoms of Newcastle disease should be isolated immediately. New birds should also be vaccinated before being introduced to a flock. An inactivated viral vaccine is available, as well as various combination vaccines.A thermotolerant vaccine is available for controlling Newcastle disease in underdeveloped countries.
+
+
+
+
+COW
+
+ANTHRAX
+B.anthracis causes Anthrax in animals. Bacillus anthracis spores remain viable for many years in soil, water and animal hides and products. The main routes of entry of endospores are by ingestion, from soil when grazing or in contaminated food and by infection of wounds. Cattle, sheep and goats are most susceptible to infection.
+Symptoms
+In peracute sepeticemia death occurs within 2 hours after animal collapsing with convulsions, sudden death in animals that appeared normal is common.
+In acute septicemia death occurs within 48 to 96 hours clinical signs include fever, anorexia, ruminal stasis, hematuria and blood tinged diarrhea.
+Pregnant animals may abort and milk production often abruptly decreases.
+Terminal signs include severe depression, respiratory distress and convulsions.
+Prevention and Control
+Prevention of anthrax in animals is aided by active immunization. The organism is susceptible to penicillin-G, tetracyclines, erythromycin and chloramphenicol.
+
+BRUCELLOSIS
+Brucella abortus species are obligate intra cellular parasites and  cause abortion in last trimester of pegnancy
+Symptoms
+The disease in cattle is almost always caused by B.abortus.
+The incubation period is usually from 30 to 60 days.
+After bacteraemia the infection localizes in the placentae, if the animal is not pregnant, the infection localizes in udder (interstitial mastitis).
+In the bull, orchitis and epididymitis.
+Abortion at 6 months and retained placentae are the cardinal signs.
+Prevention and control
+The attenuated live vaccine is used in female calves 4 to 12 months of age.
+The adjuvant bacterins is used as booster vaccine.
+
+FOOT AND MOUTH DISEASE
+
+Foot and mouth disease (FMD) is the most contagious disease of mammals and cause severe economic loss in susceptible cloven-hoofed animals (cattle, pigs, sheep, goats, and water buffalo).
+Transmission : Direct contact : Through water : manure : Pasture and cattle attendant
+Symptoms
+The disease is characterised by the formation of vesicles (fluid-filled blisters) and erosions in the mouth, nose, teats and feet. Initial signs are pyrexia (39.4-40.6ºC), dullness, anorexia, and fall in milk production. These signs are followed by excessive salivation; drooling, serous nasal discharge; shaking, kicking of the feet or lameness; and vesicle (blister) formation in  the tongue, dental pad, gums, soft palate, nostrils, muzzle, interdigital space, coronary band, and teats. Pregnant cows may abort, and young calves may die without developing any vesicle. The course of an FMD infection is 2 to 3 weeks. Secondary infection may delay recovery.
+
+Prevention & Control :
+Thorough disinfection of shed, utensils, clothes of attendants.
+Vaccination – polyvalent – once – 4months or varies with type of vaccine
+
+
+Infection Bovine Rinotracheitis
+Infectious bovine rhinotracheitis (IBR) is a disease characterized by acute inflammation of the upper respiratory tract. BoHV-1 infection can also sporadically cause abortion in cattle.
+
+BoHV-1 infection affects animal health and productivity causing significant economic losses to cattle producers. 
+symptoms
+IBR is an acute infection usually characterized by visible signs, including sudden onset of fever, salivation, rhinitis (red nose), conjunctivitis (red, watery eyes), inappetance, and dyspenea (difficult breathing). The nasal mucosa and muzzle are distinctly inflamed, with abundant nasal discharge. Nasal lesions become large, consolidated hemorrhagic (red) areas or white plaques. In advanced cases, respiratory distress increases and open-mouth breathing is evident. If primary BHV-1 infection does not resolve in five to ten days, secondary bacterial infection can occur, leading to bronchopneumonia and death in complicated cases. The reproductive system may also become involved manifested by infertility problems, abortion, and birth defects. 
+
+In adult cattle, one of the early signs of BHV-1 infection is a reduction in milk yield.
+prevention and control
+There is no specific anti-BHV-1 therapy. The most appropriate treatment is antibiotic therapy designed to control secondary bacterial infection. Management practices designed to reduce stress, isolate infected animals, and provide adequate food and water will limit disease transmission and severity.
+he prevention of IBR is based either on preventing the virus from entering the herd or vaccination. Vaccination with modified live virus (MLV)  vaccines generally provides adequate IBR protection by helping prevent disease or reducing its severity. Parenteral (intramuscular or subcutaneous) and intranasally administered IBR vaccines are available, with intranasal (IN) products producing a rapid local immune response.
+Traditionally, parenteral modified live virus IBR vaccines are not labeled for use in calves nursing pregnant cows because of the risk of shedding of the vaccine virus to pregnant cows, resulting in fetal infection and abortion.
+
+
+Johnes's Disease
+Johne's disease is a chronic enteritis of ruminants caused by M. paratuberculosis.
+
+This bacteria embeds itself in the wall of the lower part of the small intestine known as the ileum. As an immune response, infected tissues attempt to regenerate healthy tissue which leads to visible thickening of the intestines. This prevents nutrient absorption, resulting in weight loss. Late in the infection, antibody production by the animal can be found in serum of animals and is an indicator that clinical signs of disease and death from the infection will soon follow
+symptoms
+Because of the slow, progressive nature of the infection, signs of Johne’s disease may not show up until years after initial infection. When they finally do occur, the signs are long-lasting diarrhea and weight loss despite good appetite.
+
+Bottle jaw may also appear, which is fluid accumulation in the bottom jaw causing an abscess.
+
+Once clinical signs appear the animal will not recover and will continue to deteriorate.
+prevention and control
+There is no treatment for Johne's disease. 
+Prevention is the most cost-effective way to manage Johne's disease. It is far less expensive to block introducing Johne's disease into a herd/flock than it is to control or eradicate the infection once it creeps in and invisibly starts to spread.
+
+Testing ill looking animals can confirm whether Johne's disease is present.
+
+If it is it may be more economical to cull infected animals, if not, the animal must be managed to ensure no young animals are exposed to their milk or manure.
+
+Newborn animals must be protected from infection by being born and raised in a clean environment and fed milk and water free of M. paratuberculosis contamination. The primary source of contamination is manure from an infected adult animal.
+
+
+mad cow disease
+Bovine spongiform encephalopathy (BSE), commonly known as mad cow disease, is an incurable and invariably fatal neurodegenerative disease of cattle.
+symptoms
+Symptoms include abnormal behavior, trouble walking, and weight loss. Later in the course of the disease the cow becomes unable to function normally.[1] The time between infection and onset of symptoms is generally four to five years. Time from onset of symptoms to death is generally weeks to months
+prevention and control
+There is no cure for mad cow disease
+A ban on feeding meat and bone meal to cattle has resulted in a strong reduction in cases in countries where the disease has been present.
+
+
+Bovine Viral Diarrheasss
+Bovine Viral Diarrhea (BVD) is a disease of cattle caused by the Bovine Viral Diarrhea Virus (BVDV). The virus is widespread and most herds are at risk for infection. In the susceptible herd, BVD can be a serious, costly disease.
+
+symptoms
+The signs of Bovine Viral Diarrhea vary, depending on the immune status of the exposed animals, and the strain of the infecting virus. The incubation period is about three to five days. If susceptible (non-vaccinated) animals are infected with a virulent strain of the virus, the disease will likely appear as an acute, severe sickness, with bloody diarrhea, high fever (105–107 degrees), off- feed, mouth ulcers, and often pneumonia. Some infected animals may die, while others will recover, usually within one or two weeks. Occasionally an animal will die very quickly, before other signs are apparent. Since Bovine Viral Diarrhea is a viral disease, antibiotics are ineffective.
+
+prevention and control
+If Bovine Viral Diarrhea virus gets into a non-vaccinated or improperly vaccinated herd, it will spread from animal to animal. Thus it is important to maintain a strong Bovine Viral Diarrhea virus vaccination program that will minimize this type of transmission and allow containment of the virus before it infects a large portion of the herd. Bovine Viral Diarrhea vaccines are an important part of the prevention program. Maintain a closed herd, if possible
+
+
+
+CATS
+Cancer
+Cancer is a class of diseases in which cells grow uncontrollably, invade surrounding tissue and may spread to other areas of the body. As with people, cats can get various kinds of cancer. The disease can be localized (confined to one area, like a tumor) or generalized (spread throughout the body).
+
+Symptoms
+Lumps (which are not always malignant, but are always worth having a veterinarian examine)
+Swelling
+Persistent sores or skin infections
+Abnormal discharge from any part of the body
+Bad breath
+Listlessness, lethargy or other marked change in behavior
+Weight loss
+Sudden lameness
+Diarrhea or vomiting
+Scaly and/or red skin patches
+Decreased or loss of appetite
+Difficulty breathing, urinating or defecating
+Change in behavior
+
+Prevention
+Keeping your cat indoors will protect her from certain skin cancers caused by repeated sun exposure and sunburn.
+Breast cancer is a common cancer for cats, but it can be avoided by having your cat spayed before her first heat cycle.
+
+Treatments
+Treatment options vary and depend on the type and stage of cancer.
+Common treatments include surgery, chemotherapy, radiation and immunotherapy or a combination of therapies. 
+Some cat owners opt for no treatment of the cancer, in which case palliative care, including pain relief, should be considered. 
+Some cancers can be cured, and almost all patients can receive at least some benefit from treatment. 
+
+Diabetes
+Diabetes in cats is a complex disease caused by either a lack of the hormone insulin or an inadequate response to insulin. After a cat eats, her digestive system breaks food into various components, including glucose—which is carried into her cells by insulin. When a cat does not produce insulin or cannot utilize it normally, her blood sugar levels elevate. The result is hyperglycemia, which, if left untreated, can cause many complicated health problems for a cat.
+
+Symptoms 
+Change in appetite (either increased or decreased)
+Weight loss
+Excessive thirst/increase in water consumption
+Increased urination
+Urinating in areas other than litter box
+Unusually sweet-smelling breath
+Lethargy
+Dehydration
+Unkempt hair coat
+Urinary tract infection
+
+Prevention
+A proper diet and regular exercise can go a long way to avoid the development of feline diabetes. Aside from other negative effects, obesity is known to contribute to insulin resistance.
+
+Treatment
+Every diabetic cat is an individual and will respond differently to therapy. 
+Some cats are seriously ill when first diagnosed and require intensive hospitalized care for several days to regulate their blood sugar levels.
+For most cats, insulin injections are necessary for adequate regulation of blood glucose.
+Your vet may also show you how to perform glucose tests at home.
+
+Feline Immunodeficiency Virus (FIV)
+Cats infected with feline immunodeficiency virus (FIV) may not show symptoms until years after the initial infection occurred. Although the virus is slow-acting, a cat’s immune system is severely weakened once the disease takes hold.
+
+Symptoms
+Enlarged lymph nodes
+Fever
+Anemia
+Weight loss
+Disheveled coat
+Poor appetite
+Diarrhea
+Abnormal appearance or inflammation of the eye (conjunctivitis)
+Inflammation of the gums (gingivitis)
+Inflammation of the mouth (stomatitis)
+Dental disease
+Skin redness or hair loss
+Wounds that don’t heal
+Sneezing
+Discharge from eyes or nose
+Frequent urination, straining to urinate or urinating outside of litter box
+Behavior change
+
+Prevention
+The best way to prevent your cat from contracting the virus is to keep him indoors, avoiding any chance of contact with infected felines.
+If you walk your cat, keep him on a leash when outdoors.
+If your cat is going to be spending any time in a cattery or in a home with other felines, make sure all cats have tested negative for FIV.
+Any recently adopted cat should be tested for FIV prior to entering your home.
+You may also want to speak to your veterinarian about the FIV vaccine and if it is appropriate for your cat.
+
+Treatment
+Unfortunately, there is no specific antiviral treatment for FIV. Cats can carry the virus for a long time before symptoms appear. Therefore, treatment focuses mainly on extending the asymptomatic period or, if symptoms have set in, on easing the secondary effects of the virus. Your veterinarian may prescribe some of the following treatments:
+
+Medication for secondary infections
+Healthy, palatable diet to encourage good nutrition
+Fluid and electrolyte replacement therapy
+Anti-inflammatory drugs
+Immune-enhancing drugs
+Parasite control
+
+
+Feline Leukemia Virus (FelV)
+First discovered in the 1960s, feline leukemia virus is a transmittable RNA retrovirus that can severely inhibit a cat’s immune system. It is one of the most commonly diagnosed causes of disease and death in domestic cats.
+
+Symptoms ---->
+Loss of appetite and weight loss,
+Pale or inflamed gums,
+Poor coat condition,
+Abcesses,
+Fever,
+Upper respiratory infections,
+Diarrhea and vomiting,
+Seizures,
+Changes in behavior,
+Vision or other eye problems,
+Enlarged lymph nodes,
+Reproductive problems (in females),
+Jaundice,
+Chronic skin disease,
+Respiratory distress,
+Lethargy,
+
+Prevention ---->
+There is a vaccine available for cats who are at risk of contracting FeLV. 
+As with any infectious disease, the best prevention is eliminating sources of exposure. 
+
+Treatment ---->
+Feed your cat a nutritionally balanced diet, one free of raw meat, eggs and unpasteurized dairy products, which can harbor bacteria and parasites and lead to infection.
+Provide a quiet place for your cat to rest indoors and away from other cats who could promote disease.
+Bring your cat to the vet every six months—at the very least—for a wellness checkup and blood tests.
+Sadly there is no cure for FeLV
+
+Heartworm
+Spread by infected mosquitoes, heartworm is increasingly being recognized as an underlying cause of health problems in domestic cats. Cats are an atypical host for heartworms. Despite its name, heartworm primarily causes lung disease in cats. 
+
+Symptoms ----> 
+Persistent cough,
+Breathing difficulties (panting, wheezing, rapid or open-mouthed breathing),
+Depression,
+Loss of appetite,
+Weight loss,
+Sporadic vomiting,
+Lethargy,
+Sudden death,
+
+Prevention ---->
+There are several FDA-approved medications available that reliably prevent feline heartworm infection. 
+It’s also a good idea to limit your cat’s exposure to mosquito-infested areas and bring her in for preventative screenings during vet visits.
+Regular checkups are key to detecting early infections and can give your cat a good chance at recovery.
+
+Treatment ---->
+There are currently no products in the Nigeria approved for treating feline heartworm infection. The good news is that many heartworm-infected cats are able to fight the infection themselves, and can be monitored with radiographs every few months, while waiting out the worms’ lifespan. If an infected cat shows symptoms of lung disease, the cat can be given a cortisone-like medication as needed. Medication can also be given to help control coughing and vomiting.
+
+Rabies
+Rabies is a viral disease that affects the brain and spinal cord of all mammals, including cats, dogs and humans.
+
+Symptoms ---->
+Changes in behavior (including aggression, restlessness and lethargy),
+Increased vocalization,
+Loss of appetite,
+Weakness,
+Disorientation,
+Paralysis,
+Seizures,
+Sudden death,
+
+Prevention ----> 
+Vaccination is the key
+
+Ringworm
+Although the name suggests otherwise, ringworm isn’t caused by a worm at all—but a fungus that can infect the skin, hair and nails. Not uncommon in cats, this highly contagious disease can lead to patchy, circular areas of hair loss with central red rings.
+
+Symptoms ----> 
+Skin lesions that typically appear on the head, ears and forelimbs.
+Ringworm can cause flaky bald patches that sometimes look red in the center.
+In mild cases, there may be localized areas of redness or simply dandruff, while more severe infections can spread over a cat’s entire body.
+
+Treatment ----> 
+A veterinarian may prescribe a shampoo or ointment that contains a special medication to kill the fungus.
+In some cases, oral medications are necessary.
+To ensure that you’ve eradicated this resistant and hardy fungus, treatment may have to be given for several months or more and fungal cultures rechecked periodically.
+It’s also important to treat the cat’s environment to prevent infection from recurring.
+
+Upper Respiratory Infections
+A cat’s upper respiratory tract—the nose, throat and sinus area—is susceptible to infections caused by a variety of viruses and bacteria.
+
+Symptoms ---->
+Sneezing,
+Congestion,
+Runny nose,
+Cough,
+Clear to colored nasal discharge,
+Gagging, drooling,
+Fever,
+Loss of or decreased appetite,
+Rapid breathing,
+Nasal and oral ulcers,
+Squinting or rubbing eyes,
+Open-mouth breathing,
+Depression
+
+Prevention ----> 
+Keep your cat indoors to minimize the risk of exposure to infected animals.
+Properly isolate infected cats to protect other pets living in the same environment.
+Minimize stress.
+Practice good hygiene and wash your hands thoroughly when handling multiple cats.
+
+Treatment ---->
+Medications
+Isolation
+Rest
+Support with fluids
+Nutritional support
+
+Worms
+Cats can acquire a variety of intestinal parasites, including some that are commonly referred to as “worms.” Infestations of intestinal worms can cause a variety of symptoms.
+
+Symptoms ----> 
+Diarrhea,
+Worms visible in stool or segments of worm seen near anus,
+Bloody stool,
+Bloating or round, potbellied appearance to abdomen,
+Weight loss,
+Vomiting,
+Constipation,
+Anemia,
+Coughing,
+Trouble breathing
+
+Prevention ---->
+Keep your cat indoors to avoid exposure to infected cats, rodents, fleas and feces.
+Make sure your home, yard and pets are flea-free.
+Practice good hygiene and wear gloves when changing cat litter or handling feces.
+
+Treatment ---->
+Deworming
+
+KIDNEY DISEASE
+Kidneys filter out waste and regulate blood and water levels. If there is a breakdown or deterioration in the kidneys, cats can develop acute renal failure or chronic kidney disease. Acute renal failure typically develops quickly and can be reversed if it’s diagnosed in time.
+
+Symptoms ----> 
+Frequent urination,
+Weight loss,
+Drinking a lot of water,
+A dry coat,
+Vomiting,
+Diarrhea,
+Bloody or cloudy urine
+
+Treatment ---->
+Surgery
+
+PANCREATITIS
+For cats and humans alike, the pancreas performs vital functions in the digestive process. Pancreatitis develops when the pancreas becomes inflamed, and in cats it is also usually accompanied by inflammation in the liver and intestines.
+
+Symptoms ---->
+Vomiting,
+Fever,
+Abdominal pain,
+Decreased appetite,
+Diarrhea
+
+Treatment ---->
+Surgery
+
+IMAGES - GOAT
+fever - https://drive.google.com/uc?export=view&id=
+vomiting - https://drive.google.com/uc?export=view&id=1ZESGhXBJcAoE6NUplQJSkxOWuCGc7oum
+loss of appetite - https://drive.google.com/uc?export=view&id=1Zo3kib6I5kzHPw50msGTuvM3lKJqVuwt
+fever - https://drive.google.com/uc?export=view&id=109_hNgsq2Cu2fmuJNA_M4WcY2m8DdSfD
+abdominal pain - https://drive.google.com/uc?export=view&id=10gG4PGZtm5DwzlBVwmr6U9G_xQzqyUyC
+diarrhea - https://drive.google.com/uc?export=view&id=
+increased urination - https://drive.google.com/uc?export=view&id=1MyNTm8YLVoUAnq1LZe9FklMFheZA-CgT
+bloody or cloudy urine - https://drive.google.com/uc?export=view&id=1252qGsBWKPKC8BkW7cA3GUuffEkIv3v3
+weight loss - https://drive.google.com/uc?export=view&id=1UCXSEoejREsP9LmIlc6RGqpv9TrENn7o
+excessive thirst - https://drive.google.com/uc?export=view&id=1tNrQ17fuR6MMvSh5HNgPJlInm0HfjgOc
+bloody stool - https://drive.google.com/uc?export=view&id=1Wvglb5VEUV0DWUfyVx0PSnjoPTGzYSYm
+cough - https://drive.google.com/uc?export=view&id=1MOK3TQuNH-zpnXw4a_V93-qlN1WCxUOY
+worms visible in stool - https://drive.google.com/uc?export=view&id=17yM7J3_S2xHtbgysB5p2viNfE0jfdGpM
+Anemia - https://drive.google.com/uc?export=view&id=19cdsTX4QEwjXXwaU5IoSmr8qddErqant
+constipation - https://drive.google.com/uc?export=view&id=1aUxkuW40HsVioqddsbv59ot_PmMlhQQ1
+sneezing - https://drive.google.com/uc?export=view&id=1A63MdFqFPdr0kIFkJANZ7sdt7L-SFcbt
+runny nose - https://drive.google.com/uc?export=view&id=10Bz77MHsbhEAXJiDUcfxuLBsx2_b_b3b
+gagging - https://drive.google.com/uc?export=view&id=1oKsE8EErjnZFqpEosA6uz1sd0CJQOpoR
+breathing difficulties - https://drive.google.com/uc?export=view&id=1ZUgTYsZMpUrhunDGztUetUK_igoIiGkD
+squinting - https://drive.google.com/uc?export=view&id=1pyNRLzovitjUyarGKMkw9OtUePAA3_tO
+skin lesions - https://drive.google.com/uc?export=view&id=1GkNvtKdDQBYmRaHBlgnEJZwHgLw7fQyG
+bald patches - https://drive.google.com/uc?export=view&id=1uZGxDtkrklj8Re4cKEokxATmEaSG0CvP
+changes in behavior - https://drive.google.com/uc?export=view&id=
+weakness - https://drive.google.com/uc?export=view&id=1SUP8mZR1M4mEszqj1p-byQRbY0mAO3i8
+paralysis - https://drive.google.com/uc?export=view&id=1FopDwnvtgYyFpkeRBRqCBMuYCgLh44RX
+seizure - https://drive.google.com/uc?export=view&id=1VEhvea3U9kai2sbrUL-KRKUV3D_r-vsX
+death - https://drive.google.com/uc?export=view&id=15HyxcDA9BW7a7ZKNgdpkxT5tGFDIFuf5
+depression - https://drive.google.com/uc?export=view&id=1g3_iAcLxZ841LaBV29XOinw0qU6dRnFT
+lethargy - https://drive.google.com/uc?export=view&id=1lY2gYhEtPP2LfnkU6Qq5Wo6qRgtCiJll
+abcesses - https://drive.google.com/uc?export=view&id=1IKZf8u-6x34PGGqTEZ9ja7_acHb3KsHK
+respiratory infections - https://drive.google.com/uc?export=view&id=
+jaundice - https://drive.google.com/uc?export=view&id=1Ot-sKXNzqpHI2nF4S_aJuAU2LWn41Puy
+enlarged lymph nodes - https://drive.google.com/uc?export=view&id=1qfRnO3WpHgMID5sqPi-MrVsExle_9lfC
+dental disease - https://drive.google.com/uc?export=view&id=1CoYwowVnetdYxcPzGBT_RdKFJjBW_fvE
+discharge from eyes or nose - https://drive.google.com/uc?export=view&id=1b9LjpSy1S6xCj1tJf37h5WfarQ_zM3A4
+dehydration - https://drive.google.com/uc?export=view&id=17SrZyEMgjEXdCASWe8oK-CCUfpKeTBsH
+lumps - https://drive.google.com/uc?export=view&id=1g11I4b4x48IzPyvrHIXdPfs8oF1jOTEA
+swelling - https://drive.google.com/uc?export=view&id=1eWyxR-zdlaMKkTcQVfoP4xFMYBM_OTiE
+skin infection - https://drive.google.com/uc?export=view&id=1r9GsQxYWxrEkTT8eSnNt5oic1Jd7Lsx9
+
+
+
+
+Dogs
+Cancer
+Cancer is a “multifactorial” disease, which means it has no known single cause. However, we do know that both hereditary and environmental factors can contribute to the development of cancer in dogs.
+
+Symptoms ----> 
+Lumps (which are not always malignant, but should always be examined by a vet),
+Swelling,
+Persistent sores,
+Abnormal discharge from any part of the body,
+Bad breath,
+Listlessness/lethargy,
+Rapid, often unexplained weight loss,
+Sudden lameness,
+Black, tarry stools (a symptom of ulcers, which can be caused by mast cell tumors),
+Decreased or loss of appetite,
+Difficulty breathing, urinating or defecating
+
+Prevention ---->
+Having your dog altered at a young age can dramatically reduce their chance of getting certain types of cancer.
+Breast cancer can be avoided almost completely by having your dog spayed before her first heat cycle, while a neutered male dog has zero chance of developing testicular cancer
+
+Treatments ---->
+Treatment options vary and depend on the type and stage of cancer.
+Common treatments include surgery, chemotherapy, radiation and immunotherapy or a combination of therapies. 
+Some dog owners opt for no treatment of the cancer, in which case palliative end of life care, including pain relief, should be considered. 
+Some cancers can be cured, while others cannot.
+
+Diabetes
+Diabetes in dogs is a complex disease caused by either a lack of the hormone insulin or an inadequate response to insulin. After a dog eats, his digestive system breaks food into various components, including glucose—which is carried into his cells by insulin, a hormone secreted by the pancreas. When a dog does not produce insulin or cannot utilize it normally, his blood sugar levels elevate. The result is hyperglycemia, which, if left untreated, can cause many complicated health problems for a dog.
+
+Symptoms ---->
+Change in appetite,
+Excessive thirst/increase in water consumption,
+Weight loss,
+Increased urination,
+Unusually sweet-smelling or fruity breath,
+Lethargy,
+Dehydration,
+Urinary tract infections,
+Vomiting,
+Cataract formation, blindness,
+Chronic skin infections
+
+Prevention ---->
+Although a certain form of diabetes—the type found in dogs less than a year of age—is inherited, proper diet and regular exercise can go a long way to avoid the development of diabetes. Aside from other negative effects, obesity is known to contribute to insulin resistance.
+
+Treatment ---->
+Every diabetic dog is an individual and will respond differently to therapy. 
+Some dogs are seriously ill when first diagnosed and require intensive hospitalized care for several days to regulate their blood sugar levels.
+Dogs who are more stable when first diagnosed may respond to oral medication or a high-fiber diet that helps to normalize glucose levels in the blood
+For most dogs, insulin injections are necessary for adequate regulation of blood glucose.
+
+Heartworm
+Heartworm is a parasitic worm that lives in the heart and pulmonary arteries of an infected animal.
+
+Symptoms ---->
+Labored breathing,
+Coughing,
+Vomiting,
+Weight loss, listlessness and fatigue after only moderate exercise
+
+Prevention ---->
+Heartworm is easily preventable with an inexpensive, chewable pill or topical medication available as a vet’s prescription. The pills or topical are usually administered monthly and can be given to dogs under 6 months of age without a blood test. Older animals must be screened for the disease prior to starting medication.
+
+Treatment ---->
+The most common course of treatment is a series of injections of drugs called adulticides into the dogs’ muscle. This cure has a high success rate and usually requires hospitalization.
+All treatment protocols require several weeks of exercise restriction after treatment and are not without risk.
+After treatment, your dog should be placed on a preventative medication to reduce the risk of infection.
+
+Kennel Cough
+Kennel cough is a term loosely used to describe a complex of respiratory infections—both viral and bacterial—that causes inflammation of a dog’s voice box and windpipe.
+
+Symptoms ---->
+A persistent dry cough with a “honking” sound,
+Gagging,
+Coughing up white foamy phlegm,
+Fever,
+Nasal discharge
+
+Prevention ---->
+The best way to prevent kennel cough is to prevent exposure.
+Vaccinations are also available for several of the agents known to be involved in kennel cough, including parainfluenza, Bordetella and adenovirus-2.
+
+Treatment ----> 
+Dogs with kennel cough should be isolated from other dogs.
+A humidifier, vaporizer or steam from a shower can provide relief for irritated breathing passages.
+Avoid exposing your dog to cigarette smoke or other noxious, irritating fumes.
+
+Parvovirus
+Canine parvovirus is a highly contagious viral disease that can produce life-threatening illness.
+
+Symptoms ---->
+Lethargy,
+Severe vomiting,
+Loss of appetite,
+Bloody, foul-smelling diarrhea
+
+Prevention ---->
+Make sure your dog is up-to-date on his vaccinations. Parvovirus should be considered a core vaccine for all puppies and adult dogs.
+Generally, the first vaccine is given at 6-8 weeks of age and a booster is given at four-week intervals until the puppy is 16-20 weeks of age, and then again at one year of age.
+
+Treatment ---->
+
+There are currently no drugs available that can kill the virus. Treatment consists of aggressive supportive care to control the symptoms and boost your dog’s immune system.
+Dogs infected with parvovirus need intensive treatment in a veterinary hospital
+The average hospital stay is about 5-7 days
+
+Rabies
+Rabies is a viral disease that may affect the brain and spinal cord of all mammals, including cats, dogs and humans
+
+Symptoms ---->
+Changes in behavior (including restlessness, apprehension, aggression or irritability),
+Biting or snapping at any form of stimulus,
+Attacking other animals, humans and even inanimate objects,
+Licking, biting and chewing at the bite site,
+Fever,
+Hypersensitivity,
+Hiding in dark places,
+Eating unusual objects,
+Paralysis of the throat and jaw muscles,
+Foaming at the mouth,
+Disorientation, incoordination and staggering,
+Paralysis of the hind legs,
+Loss of appetite,
+Weakness,
+Seizures,
+Sudden death
+
+Prevention ---->
+Vaccination is the key
+
+Ringworm
+Although the name suggests otherwise, ringworm isn’t caused by a worm at all—but a fungus that can infect the skin, hair and nails. This highly contagious disease can lead to patchy areas of hair loss on a dog
+
+Symptoms ---->
+Skin lesions that typically appear on the head, ears, paws and forelimbs.
+Ringworm can patchy, crusted, circular bald spots that sometimes look red in the center
+In mild cases, there may be just a few broken hairs, while bad cases can spread over most of a dog’s body.
+
+Treatment ---->
+A veterinarian may prescribe a shampoo or ointment that contains a special medication to kill the fungus.
+In some cases, oral medications are necessary.
+Unfortunately, there is no guarantee that reinfection won’t occur
+
+Ear Infections
+Allergies, autoimmune disorders, wax buildup, moisture in the ears (which gives yeast and bacteria opportunity to thrive), and more can potentially cause ear infections.
+
+Symptoms ---->
+Itchiness,
+Pain,
+Odor,
+Dark discharge,
+Scabs or “crustiness”,
+Swelling or redness in the ear canal
+
+IMAGES - GOAT
+fever - https://drive.google.com/uc?export=view&id=1x7ZrcUP5bRJOoKttMhtMBOt7Tjr1HLsP
+mucous discharge from nostril- https://drive.google.com/uc?export=view&id=1ySIvUM_DOjbxKJB7mT4vqzXoxn-lwB52
+respiratory distress - https://drive.google.com/uc?export=view&id=1GvwpDZjgsOZ5vhAYy9V8ALeDCJAC1PlG
+mucous diarrhea - https://drive.google.com/uc?export=view&id=1R07CaQlCH8EN-J0mojC-sGlHiqwbUMQH
+joint swelling - https://drive.google.com/uc?export=view&id=1NkNgPXRpCB7rRlZMGvHGgK4sn_ZVOPT7
+scrotal swelling in male - https://drive.google.com/uc?export=view&id=1-ddvCVgJfT0RIq3x3NhO0R4DdYJheWqA
+abortion - https://drive.google.com/uc?export=view&id=1TnTuHsaslweorz559OgWWAObjSXjMMmk
+swelling of lower mandible - https://drive.google.com/uc?export=view&id=1QrDvLM5ZSx-lgW-SdfTgt3X9ElQ_7RbE
+dysentery - https://drive.google.com/uc?export=view&id=1Ph4iPvKqYct39c6tkjS0SWgYdvD0zLnp
+sudden death - https://drive.google.com/uc?export=view&id=1M05eMvdAfgh1v6y972X0j8Ju1J2_Q9_K
+bloody discharge - https://drive.google.com/uc?export=view&id=1Kbyi6NWRI4gwtCrtqwQBro9awMGwhVcZ
+wound - https://drive.google.com/uc?export=view&id=1Yz9dYx17mr_3yIm30LNg65pyElK7kvYh
+weight gain - https://drive.google.com/uc?export=view&id=1E4ZppY6Hwyyp5yCt8UITzPdEvKm1t_h7
+cough - https://drive.google.com/uc?export=view&id=1iicn37k6YqsGsrqWUirwrbf9qN2en-gX
+foot wound - https://drive.google.com/uc?export=view&id=1g27kO5MUfhtrCCgoGD-ksePtZ_z_eBiG
+udder swelling - https://drive.google.com/uc?export=view&id=1VAKg3JSCGf_CWezp8CPo-zLkjboHIxGK
+O&N mucous - https://drive.google.com/uc?export=view&id=1x2GcJUTOUV0iFhNRmzZYDNHUzbJzkc8o
+skin allergy- https://drive.google.com/uc?export=view&id=1TSH8IJC_Cep8aJg_eBzC05O6Wx-5I6es
+difficult in walking - https://drive.google.com/uc?export=view&id=1Jl2NhtxJ2K2zyVuhto_aEaiRX70qTDef
+pox lesion - https://drive.google.com/uc?export=view&id=1n2B89ZBrMgAxpwZodCii3KsTtk_4gGOL
+emaciation - https://drive.google.com/uc?export=view&id=1ErK3vrN8bH2d3FAzsvp0zcJZYDcRH2rm
+anaemia - https://drive.google.com/uc?export=view&id=1sE_2W1R2o1ajHpxhZEeJOuQy01WAOLrd
+edema - https://drive.google.com/uc?export=view&id=1dyDBkb_rEzy280Fq3qhHqh24qhQ_-HPs
+brownish diarrhea - https://drive.google.com/uc?export=view&id=1yZC9pAjRZIpdfOu9d3iXbYdRY0fdOc_a
+
+
+IMAGES - CHICKEN
+open beak - https://drive.google.com/uc?export=view&id=1y2jANDcS7Ep8ebro9LkIhQu4Z0iuBz2d
+ruffled feather - https://drive.google.com/uc?export=view&id=1gSrUNISHuNjwh7GyYDVFR71vsljq8c7l
+swollen comb and wattle - https://drive.google.com/uc?export=view&id=1ZC6RL6OGz4eciryRE5jCIWf4e-VQISv7
+yellowish diarrhoea - https://drive.google.com/uc?export=view&id=1ZIyWDFbm_4jgvAEzQRTSbpfcmfEr1NUN
+greenish faeces - https://drive.google.com/uc?export=view&id=1I3kbc30R_eLdn1AdFtuPY43XEJnQLgwk
+conjunctivitis with closed eye - https://drive.google.com/uc?export=view&id=1l-SQfCg2hWqdJ1H47nXu6ihOneYvl-Fk
+nasal and occular discharges - https://drive.google.com/uc?export=view&id=1BpFVfktUXz_JrN2L4rSjKH3eD2lZKutc
+facial oedema - https://drive.google.com/uc?export=view&id=1xqorUdmDGLbf6oRKR-M0zvsa-n2_UCtT
+Nasal discharge - https://drive.google.com/uc?export=view&id=1MH_I-MMAFOknWorSOhPUj1ujvp5KVQ5E
+coughing - https://drive.google.com/uc?export=view&id=1kxczBtxka_h10eJv5MorzdIlDDk8-FQA
+Loss of weight - https://drive.google.com/uc?export=view&id=1Ffu5DroaGlx5Nz9hyiFs7GAGtm3XZcL4
+gasping - https://drive.google.com/uc?export=view&id=14pCFoN1crCA1I4Yp4V2xl5d--NK_PtN9
+sneezing - https://drive.google.com/uc?export=view&id=1qf-Nh3Q4ofH210VOIuOMLTj-cjMOtgQM
+difficulty breathing - https://drive.google.com/uc?export=view&id=1COM9jirb2pQrYbNGhNgBgYtza1Cgg2b3
+paralysis - https://drive.google.com/uc?export=view&id=1uQBakJJa9Pt-5ynja6TydI7ur1w2c3md
+blindness - https://drive.google.com/uc?export=view&id=1Vb-5yoJoS8x0rjF7_bDzGgYoAorfQxzt
+death - https://drive.google.com/uc?export=view&id=1kcd0FBjG8qhA9p3aYrm2Np3kl4PWculj
+twisting of head and neck - https://drive.google.com/uc?export=view&id=1tyUFyMd0sa7EKNphmlSHVna-U-heb7Gs
+weakness or depression - https://drive.google.com/uc?export=view&id=1oNMrS6HCsG1rB1AyXTZUw-crFPycHTIE
+white diarrhea - https://drive.google.com/uc?export=view&id=1DHqUqgTkOpX5LU_JyBxN6hGa4by96_It
+cluster near heat sources - https://drive.google.com/uc?export=view&id=1GwZDDSmj7EHIFbU92GzPHRJT0uk7OESe
+
+
+IMAGES - COW
+fever - https://drive.google.com/uc?export=view&id=17MG0TaAicG2WadFs-6NtRu9JaJQl2FYM
+weak body - https://drive.google.com/uc?export=view&id=1wH6DjkKAvprry5cbJ1woSbjAW63DMIAu
+weight loss - https://drive.google.com/uc?export=view&id=1_6CctNy3bfxnLEirpSdczmhcNaGFkeay
+abortion - https://drive.google.com/uc?export=view&id=1_Q0-zGiCTtv9LAdkHNer4DAKNQQfyqXJ
+nerve disorder - https://drive.google.com/uc?export=view&id=1nATEDgyGaTM1WGImxnYGwWs0RpIltoLc
+diarrhea - https://drive.google.com/uc?export=view&id=1Am_SAq9bXIWA8VXrBT4KBrhtKraq0y75
+death - https://drive.google.com/uc?export=view&id=1hreN8gLRc72oYPELoWTBE9zbAu1CXTzM
+trembling body - https://drive.google.com/uc?export=view&id=13K7acvr3pqPOTdDna592ekClnXaM6pet
+hard to breathe - https://drive.google.com/uc?export=view&id=1U3Qw6Rh9iNUVYiarQNgYz71OMTfUmQ2W
+darker eyes - https://drive.google.com/uc?export=view&id=1G2XkBkZ_wrGyLwepJ2qYb-LsNqWWFURC
+depression - https://drive.google.com/uc?export=view&id=1-s9XItQNphKzqGfpwGjznB2Sqerge9bt
+rapid breathing - https://drive.google.com/uc?export=view&id=1KTY5G4sEumu9vOp5hFgi460i9bfEF3Lx
+seizure spasm - https://drive.google.com/uc?export=view&id=1glLq1sphIA48gBAThHiPXmQaiVJiHfGY
+out of saliva - https://drive.google.com/uc?export=view&id=1o8M-OOwBg6wBt4J1BgUpDCV22rXmaThp
+fetal infection - https://drive.google.com/uc?export=view&id=1WEYsJZRWMFLG56z1tUC5p_rhcbuMoe2F
+blood coming out of nose - https://drive.google.com/uc?export=view&id=1FJ6JHHVKsWk4l_rqgKc3A44TQW7YmJtT
+excess salivary secretion - https://drive.google.com/uc?export=view&id=1TyHcQosTBDyolWeekuScS78ZlM2jBRyW
+difficult in walking - https://drive.google.com/uc?export=view&id=1IZ4agPWDiVQufCfzhL1fdIJ5Hm1qKucQ
+wound lesion - https://drive.google.com/uc?export=view&id=1VoV-fsI6fevnlYhAb62dVqTg-wEdqXpZ
+
+IMAGE - DOG
+lumps - https://drive.google.com/uc?export=view&id=1_a9_urUpp1wX3WTWKfUhecGlbtvlsqRk
+swelling - https://drive.google.com/uc?export=view&id=1FLt_HbnKId7EQ4GcSkcvaSjMqqrFpkoJ
+skin infection - https://drive.google.com/uc?export=view&id=1rNJwTTR-c1FZ9sleCNG4LUqiN8vzT2yh
+weight loss - https://drive.google.com/uc?export=view&id=1yt_D3COrmARic701Ig6h86QfVcavakRz
+lethargy - https://drive.google.com/uc?export=view&id=1tneQ_ZKapfr3n9WWkOgJduTxp7OHf2Fa
+diarrhea - https://drive.google.com/uc?export=view&id=19MIUBfiRReMzjJLvD8f5J60mKudLn8yn
+loss of appetite - https://drive.google.com/uc?export=view&id=1NSeBI6b21bSq1YeCWKAeUojKnCzNLeWk
+excessive thirst - https://drive.google.com/uc?export=view&id=1Q0iPFhA_AvRd7Cv5KxfQwlaFOmfVad5K
+increased urination - https://drive.google.com/uc?export=view&id=13vyqyD9crV_ulhpcrhRgsIK1QOw50Ct2
+dehydration - https://drive.google.com/uc?export=view&id=1kKytQ1YaYj0wlUyaQBPWbzo-2XQeQqlF
+gagging - https://drive.google.com/uc?export=view&id=1LQ0gYCHorCEyZ1Ffda-BvbhaYmD3dOnM
+fever - https://drive.google.com/uc?export=view&id=1ypTYeoSK60XIObWRKAtQSHYoagh_p4kv
+cough - https://drive.google.com/uc?export=view&id=1--Gxe9RRPHWHQeI8E_P8OMcM0QX_Zy0F
+nasal discharge - https://drive.google.com/uc?export=view&id=1oYQGCplzjvZZlKaYWLc1uUimMX0yVI2j
+vomiting - https://drive.google.com/uc?export=view&id=1cgQ_tix2V7HKivUuVkrRJtSKPJh49GhT
+bloody diarrhea - https://drive.google.com/uc?export=view&id=1Y_z6brbUxNwqJrJtYVwO20VGHdexu9GQ
+breathing difficulties - https://drive.google.com/uc?export=view&id=15YHYO2VBp_sW2cjwJeZr1HEx83gRSUhs
+depression - https://drive.google.com/uc?export=view&id=1yh5pMcY3qxWiUKcvGmyYBmUObe5_zXt9
+weakness - https://drive.google.com/uc?export=view&id=1U-mVzHiawTvIKembvx9F3oYHDQj-FCdy
+paralysis - https://drive.google.com/uc?export=view&id=1ZfqIrVvx5a4d0-BjVk__XHbhyCJKHiHS
+seizure - https://drive.google.com/uc?export=view&id=1Wkt_CjQQZxwu3sxMpUnjDW_h3fugLGeE
+death - https://drive.google.com/uc?export=view&id=1WNr8MzOL1jkZmX5UpIVN4D8kb651_uIV
+skin lesions - https://drive.google.com/uc?export=view&id=1Qn5FOJfNAbeQCVFbJ2YKZsqIR53wMxcO
+bald patches - https://drive.google.com/uc?export=view&id=1wEB-KaBT1Cjvd1yQ9yxo-pjaLLA0W6om
+itchiness - https://drive.google.com/uc?export=view&id=1QXslf0WCi2Y-VxDdC7x9fhdVnUNYpcoe
+odor - https://drive.google.com/uc?export=view&id=1EQsb9hyiRIalRUcJQPRzbEN_00Y1mAGO
+scabs - https://drive.google.com/uc?export=view&id=1bi0Yw9iNgHMvIWek0ZntSd2Qqwt-M1PQ
+swelling or redness in the ear canal - https://drive.google.com/uc?export=view&id=1OWxvLtmryE1Xh1XJsZI_4TBpNXMjqRmx
+
+
+
+CHICKEN
+The local chickens in Nigeria are commonly called the Nigerian Indigenous Chicken (NIC), and they are all classified into two breeds based on location. They are the Fulani Ecotypes and Forest savannah (Yoruba) Ecotypes.
+
+FULANI ECOTYPES
+They are referred to as heavy ecotypes, are found in the following parts of Nigeria: Sahel and Guinea savannah part of Nigeria, the cattle Kraals and Montane regions of the North. Their mature weights are between 0.9kg and 2.5kg.
+
+YORUBA ECOTYPES
+They are referred to as the light ecotypes, are the local chickens from the following parts of Nigeria: Rainforest, Swamp and Derived Savannah zones. They weigh around 0.68kg to 1.5kg.
+
+The difference between these two breeds, Fulani ecotypes and Yoruba ecotype, is that the former has higher body weight than the latter.
+
+General Characteristics and Facts About Nigerian Indigenous Chickens
+Nigerian Indigenous Chickens are generally hardy, adapt easily to rural environments, can withstand harsh weather conditions and they adjust easily to fluxes in feed availability.
+They are mostly found in rural and semi-urban places, but they are also raised by people living in the cities and towns.
+They are self-reliant. These chickens feed themselves by looking for kitchen wastes, insects, worms, lizards and plant seeds and leaves.
+They are small in size as well as have slow growth rates.
+Their meat and eggs have good, attractive pigmentation, leanness, tastes and suitability for special Nigerian dishes.
+They can hatch their fertile eggs on their own, brood their chicks and are naturally immune to most poultry diseases.
+Age at sexual maturity is between 133-169 days under an extensive system, but will slightly increase if raised in cages.
+They are poor egg producers, as they lay just 40-50 eggs in a year under an extensive management system. It is assumed that the low egg production ability is due to the inadequate supply of balanced feed, diseases and social behavior. Hence, if the chickens are raised under improved conditions (adequate feeds, good shelter, proper medication and vaccination), their laying performance might double.
+The light ecotypes chickens lay more eggs than the heavy (Fulani) ecotypes.
+They have good fertility and hatchability rates.
+Since they perform poorly in terms of meat and egg production, they are not recommended for commercial purpose. However, farmers can still earn a good income from raising and breeding Nigerian Indigenous Chickens if they adopt the intensive or semi-intensive system of poultry production.
+
+
+GOAT
+In Nigeria, commercial and domestic goat farming plays a vital role in the development of agriculture in the country. The Northern part of Nigeria is actively involved in commercial goat farming and goat meat is in high demand in the country.
+
+There are different breeds of goats in Nigeria and these breeds produce different quantity/quality of meat, hides, skin, fiber, and milk.
+
+BREEDS OF GOAT IN NIGERIA & THEIR CHARACTERISTICS
+
+SAHELIAN GOATS
+This breed is characterized by a short fine coat that could be black, red, white or spotted. They can have medium or large body size. The goats have short ears possessed horizontally, the horns drop down. Both male and female have horns, these animals well adapted for long-distance trekking, and can survive in desert areas of the country. The goats have long legs that make them adapted for nomadic life. The weight of a mature goat is 25 – 30 kg. This breed of goats mostly used for meat. They also called “Ogufe” especially in the South-west of the country.
+
+MARADI OR RED SOKOTO GOATS
+This bread is found mostly in Sokoto. This breed is considered one of the most well defined African breeds. The color of the skin coat is red, and it is very valued for leather production. There is also a sub-breed of this goat, they are called Kano brown and Boronu white. The goats have horns and horizontally positioned short ears. Mature animals have 20- 30 kg of weight.
+
+AFRICAN DWARF GOATS
+This is a different breed of goat in Nigeria. Such a type of goats can be founded in forest areas of the country. The animal has a small size of body and short legs. Such characteristics allow them to move easily through thick vegetation of the forest. The colors can be different from black to white or gray or even multicolored. The height of a mature goat is 40 or 50 cm, and the weight is from 18 to 20kg. The breed is resistant to trypanosome and very hardy.
+
+PYGMY GOATS
+This is another small-size type of goats. The weight of an adult person is around 39 kg. They are short and slightly chubby. The time of life is ten years on average. They are characterized as very smart animals and can be great pets. They can easily adapt to different climate conditions.
+
+Although these are the main breeds in Nigeria, farmers have begun to import foreign breeds for rearing purposes. Breeds such as Boer, Sirohi, and Kalahari are frequently being purchased from South Africa and India by Nigerian farmers. These breeds are popular for their good body formation and skin quality, helping to provide immense profitability for the farmer.
+
+With good maintenance and feed, an average Boer can grow up to 80 kg in weight, which is much more than an average West African dwarf. 
+
+CATTLE
+Cattle command a prominent position in our meat supply and livestock industry. Beef is estimated to supply about 45 percent of total meat consumed in Nigeria, while the next in rank is sheep and goat meat with 35 percent. Presently, cattle population in Nigeria has been estimated as 15.3 million. There are many breeds of cattle indigenous to Nigeria. The popular breeds of cattle in Nigeria include White Fulani, Red Bororo, Sokoto Gudali, Adamawa Gudali, Wadara, Azawak, Muturu, Keteku, Ndama and Kuri. 
+
+WHITE FULANI (BUNAJI)
+The White Fulani cattle are important for their genetic predisposition of hardiness, heat tolerance and adaptation to local conditions. It has white coat color and it is fairly large, height about 130 cm, bull weighs about 500 kg and cows 325 kg. The hump is large and well developed, navel flab is small, horns are of medium length, up curving, and lyre shaped. The White Fulani is a triple-purpose animal, with milk production of 2,300 kg per lactation. It may be fattened for beef, kept for milk production, or used as draught animal, especially the bull. Crosses of White Fulani and Holstein recorded increased milk production at NAPRI-Shika, Zaria. Age at first calving was 42 - 45 months but in Fulani herds it can be as high as 5 years.
+They provide much of the beef consumed throughout Nigeria.
+
+RED BORORO (RAHAJI)
+The Red Bororo is the third most numerous breed of cattle in Nigeria,
+representing 22% of the national herd. The Rahaji is adapted to arid and semi-arid regions and are rarely found further south than Kaduna in the wet season, except for the isolated population on the Mambila Plateau in the North-East. The Rahaji is one of the largest Zebu breeds and is distinguished by its deep burgundy-colored coat, pendulous ears and long, thick horns. Fulani pastoralists consider the Rahaji an extremely prestigious breed and many herds of ‘white’ cattle include a few Rahaji for crossbreeding. Nonetheless, it tolerates neither humidity-related diseases nor poor nutrition. Strikingly, a Fulani clan, the Rahaji, named for the breed they traditionally herded, has been obliged to exchange their stock for Bunaji as they have moved south into the Middle Belt because of high mortality among the ‘red’ animals.
+
+SOKOTO GUDALI
+The Nigerian National Livestock Research Survey (NNLRS) estimated that,
+Gudali represents 32% of the national herd. There are two quite distinct types of Gudali in Nigeria:the Sokoto Gudali (Bokolooji) and the Adamawa Gudali. The Sokoto Gudali stereotypically occurs mainly in the North-West of Nigeria, but in reality, it is now distributed widely throughout the
+country. The Sokoto Gudali is a uniform cream, light grey or dun, the dewlap and skin folds are highly developed and the horns almost absent. The hair is short and the skin is thick and pigmented. The ears are pendulous and
+are useful milkers. Their milk yield at the National Animal Production Research Institute (NAPRI), Shika was higher than that of White Fulani. It has a calving interval of 360 - 450 days. The udders in the female are well developed with good teats, hence they are regarded as indigenous dairy breed. At maturity, the female weighs an average of about 330kg, while the male weighs about 450 kg. The female produces an average of 1,500 kg of milk per
+lactation.
+
+ADAMAWA GUDALI 
+The Adamawa Gudali, as its name implies, is restricted to Adamawa. The NNLRS (1990) estimated that, Adamawa Gudali represents 2% of the national herd. At least two local types were originally recognized in Nigeria: the Banyo, with
+Rahaji blood and rather large horns, often with a white face and red eye patches, and the Yola, which has an admixture of Muturu. The Muturu element has been progressively diluted since the 1950s and the Yola breed is no longer recognized as a distinct variety by local herders. The Adamawa Gudali resembles the Bunaji in conformation. It is medium to large sized, with medium length horns and usually pied, or with a white, black, red or brown coat. It has thick, crescent-shaped horns, a pendulous hump, and a short head and muzzle, however, the pendulous hump is the feature that most reliably distinguishes it from the Bunaji. Both Kanuri and Fulani pastoralists own Adamawa Gudali cattle.
+
+WADARA
+Wadara cattle, another Nigerian breed, are medium-sized, lightly built cattle, and are usually dark-red, black, pied or brown. They are short horned and have a small erect hump, representing some 6.6% of the national herd. Wadara cattle are the ‘indigenous’ cattle of Borno and are referred to by the Koyam and related pastoralists as ‘our’ cattle. They are frequently called
+‘Shuwa’ in the literature, after the Shuwa Arabs who, also, herd them. A related breed with a white coat, the Ambala, is often traded into Nigeria from Chad.
+
+AZAWAK
+The Azawak is another breed found in Nigeria and is said to be native to the Azawak valley North-East of Nigeria and is distributed along its North-Western border. It is lightly built with medium-length horns. Although Azawak in Niger Republic is commonly described as red, the Azawak that enter Nigeria are usually a light fawn color, though they can also be white, brown, pied and black. The NNLRS (1990) estimated that, they represent just 0.7% of the national herd. A small population of Azawak cattle exists in Nigeria throughout the year, but the majority is seasonally transhumant. Azawak are generally only found on the border North and West of Sokoto but there are,
+also, some in the North-West of Borgu and dotted along the frontier from Sokoto to Katsina.
+
+MUTURU
+The West African dwarf short-horn or Muturu is small bodied, and blocky in
+conformation with short, fine-boned limbs. It has a compact body, no hump, a straight back, and a broad head. The face is slightly dished, and the horns are very short. In South-Central Nigeria, the Muturu is generally black, or black and white. The Muturu on the Jos Plateau itself are usually black
+and white but are distinctly larger than the low-land animals. There are more variations in the Northern populations; where brown, red or tawny animals are recorded. Within Nigeria, Muturu cattle have a very disjointed distribution, suggesting, a gradual retreat of a once more widespread population.
+
+KETEKU
+The definition of Keteku has become more problematic in recent years with an
+increasing proportion of Zebu blood in ‘Keteku’ herds. As Fulani pastoral herds push even further south and increasingly inhabit regions previously restricted to trypano-tolerant stock, more Zebu stock are bought in for village herds. Thus, application of the name Keteku to an individual animal
+may reflect as much the owner’s cultural background as its actual genetic composition. The population size given by ILCA (1979) was 180,000 Keteku in Nigeria. Keteku are significantly less common than previously thought and their distribution quite different. It is unlikely that, there are as
+many as 100,000 of all types.
+
+N’DAMA
+N’dama cattle are native to Senegambia and adjacent parts in the West of West Africa. They were first brought into Nigeria from Guinea in 1939 on an experimental basis, because they were trypano-tolerant and yet were larger than Muturu. The N’dama has a medium-sized compact body with lyre-shaped black-tipped horns and no hump. There is a small dewlap in the male, but a fairly large head. Although those imported into Nigeria are generally light brown, there are black and pied animals in Guinea. N’dama cattle have been sold to farmers and pastoralists with a view to improving the resistance of local herds to trypanosomiasis. In most cases, herders cross them with Zebu and there are now few pure N’dama outside institutions, although some were recorded in Northern Yoruba land.
+
+KURI
+The Kuri is a large-bodied humpless long-horn, whose exact historical origin is unknown. The Kuri has distinctive, inflated, spongy horns unknown in any other breed and with a mean height of 1.5 m, and weight up to 550 kg. It is one of the largest breeds of African cattle. Kuri are noted for their extremely variable colors and their ability to thrive in semi aquatic conditions. The nucleus of the Kuri cattle population is within the
+region of the former Lake Chad, and along its eastern shores. In Nigeria, Kuri are found not only on the Lake but on its shores and along the Yobe valley, as far west as Gashagar. There is, also, a restricted export of the Kuri as traction animals to the region North-East of Kano. The breeds along
+the Komadugu Yobe are crossed with the Zebu and are generally referred to as Jetkoram.
+
+
+
+
+Pictures
+GOAT
+SAHELIAN GOATS - https://drive.google.com/uc?export=view&id=15PEDKVKqlWWl1jdrPW914axEyKVJiF28
+MARADI OR RED SOKOTO GOATS - https://drive.google.com/uc?export=view&id=1ilj9CsadHf96QQEuLRoLQv37XPCncLim
+AFRICAN DWARF GOATS - https://drive.google.com/uc?export=view&id=11AZGGrfHWHrOmaX3EFHXD4aI23wx6nMa
+PYGMY GOATS - https://drive.google.com/uc?export=view&id=1lDzTqd6K_KR7Qb2yrOSHqrdhJggIZXBP
+
+
+CHICKEN
+FULANI ECOTYPES - https://drive.google.com/uc?export=view&id=1FcGVac3FhX7NrjXuqmsMyFgUJl1nTBju
+YORUBA ECOTYPES - https://drive.google.com/uc?export=view&id=1QVo34tWmfglxD7XFfjvJ9qaZl1XGW6Xg
+
+
+COW
+WHITE FULANI (BUNAJI) - https://drive.google.com/uc?export=view&id=1_3HdcHO8T2Y0-bZ2KgYQ4Ev-ML9ZZ3dv
+RED BORORO (RAHAJI) - https://drive.google.com/uc?export=view&id=1N_1PpV5jmBknDaiYMFI84_ZL1n3E-H64
+SOKOTO GUDALI - https://drive.google.com/uc?export=view&id=1lR0t45JqIfVEknxnEfe27_ElhsgxBObX
+ADAMAWA GUDALI - https://drive.google.com/uc?export=view&id=1DBqYKOp9K4fKyyzUmsw0-cZ_Zp9KAFz8
+WADARA - https://drive.google.com/uc?export=view&id=1QVaCDstkq8WxRMwEf86hLcft3lA9CnEI
+AZAWAK - https://drive.google.com/uc?export=view&id=1TfgFJv22NSeU1BgMqdbii8sxinEB4rmb
+MUTURU - https://drive.google.com/uc?export=view&id=1OxeK0rzm5xmnrpCX7Gc8Z7cvE6rVzu6X
+KETEKU - https://drive.google.com/uc?export=view&id=1swRdXuRXlImYZ8hnvYF6kLvnJ033IF4E
+N’DAMA - https://drive.google.com/uc?export=view&id=13540r8cVyxiQcc9xwQtKj9IfmUiG1V2r
+KURI - https://drive.google.com/uc?export=view&id=1gAF4GHlUIOdJJv1VpCsrdXWyWoJDc3zp
+
+
+
+DOGS
+
+CAUCASIAN - https://drive.google.com/uc?export=view&id=1X2z7gYcfGhVMfp4RH3GdhKV47_FKg-vh
+GERMAN SHEPHERD - https://drive.google.com/uc?export=view&id=1aVwhZ-rfu0WTkYCPndEJIoZn_kcvthRI
+AMERICAN PITBULL - https://drive.google.com/uc?export=view&id=1nVoQgneutLOFRHhDEflnstLcielOU51J
+BOERBOEL - https://drive.google.com/uc?export=view&id=1FJEILnus2vVpwcdP9uEIK2t4tl0NTNEk
+BULLDOG - https://drive.google.com/uc?export=view&id=1wFlu3rjIGQBR_XMcOzlyyIl-UFPaRWr1
+CHOW CHOW - https://drive.google.com/uc?export=view&id=1ezozmLD4G9mrhfMwE8xPRKhFZF96o73T
+MASTIFF - https://drive.google.com/uc?export=view&id=1AnKXv5vk6O4okvs70hKnUi88ikhBTzql
+ROTTWEILER - https://drive.google.com/uc?export=view&id=1mH2Yaejbj9K8lMgpqxTOsoW06qiQgJ6Q
+SAMOYED - https://drive.google.com/uc?export=view&id=1Fvxe8II3XfSPet0laQzv84oNj7YYSeqp
+
+
+INFO
+Nigerians love the idea of owing dogs in their homes. Aside serving as security agents, dogs can be the best friend that you could ever think of, the type that can remain loyal even unto death. And with proper training, some dog breeds can even be trusted to keep your infant child save and entertained while you are out for something. However, while there are many dog breeds available to buy in Nigeria, some of them may not really be too good to keep at home, as some breeds are so prone to violence, especially to the kids at home. This issue calls for serious concern when choosing a dog breed to buy. GERMAN SHEPHERD ---> it is amongst the best and most popular dog breeds to buy in Nigeria. It is one of the dogs that you will see in many Nigerian homes because of its unique characteristics. It lives between 10 and 12 years, and has a very high IQ rating. This dog breed can be so agile, fearless, sociable and highly protective of its master and his family members. Above all, German shepherds are popularly known for their abilities to obey commands from their owners. That’s why the police force in the Western world don’t joke with this dog breed. Generally, it’s one dog breed that you would love to have and care for, because the love that this dog brings to your family is second to non. CAUCASIAN ---> It’s a giant dog size that lives between 10 and 11 years before death. It’s among the most beautiful dog breed in the world with a very high intelligence level. This Caucasian dog is one of the few dog breed you can always rely on for security, as they are highly territorial and do not refrain from attacking anyone or thing they consider a trait or danger to their owner or family member. AMERICAN PITBULL ---> American Pitbull is yet another popular dog breed in Nigeria that is so loved by many Nigerian families. This breed can live up to 15 years under a special care and environment. While it’s a medium size dog, it doesn’t by any means limit its ferociousness like the big sized ones above. The dog is fast, playful, sensitive and highly emotional. Amazingly, it can dictate on its own when you are happy and very angry. The dog responds to command and instructions very well, and barks only when it suspects danger. Its one great companion to have around the house any time any day. BOERBOEL ---> This dob breed has a South African origin, and it can live for up to 12 years like most dogs in Nigeria. It belongs to the large dog family as its full-grown adult can weigh about 90 kg. Boerboel breed is popular in Nigeria for many reasons. First amongst them is the fact that it obeys command well and can memorize instructions within 5 repetitive trials. Above all, this dog breed serves as good security agents, extremely fast, resilient and very suspicious of any person it considers an intruder. To get the best of this dog breed, you should train it very well, as that’s when all its full potentials can properly be utilized. BULLDOG ---> The dog is not considered to be very beautiful by any standard. However, its other admirable features duly compensated for that. The bulldog is a very large breed with a very massive head size. The dog may be large though, however it’s a very peace loving dog that doesn’t like stress. While it doesn’t rank too high on IQ test, the dog is still a very smart dog that is fun to be with. If you are looking for a more responsive dog for security reasons, the British bulldog appears intimidating at first sight, however, its not the most responsive to security threats. CHOW CHOW ---> Chow chow breed is one of the most adorable dog breed in Nigeria with Chinese origin. It’s a small size breed that can live for like 10 years. This dog breed is amongst the popular breeds in Nigeria due to its cuteness. Chow Chow is not an attack or security dog breed at all. Its usefulness at home is its ability to give you lots of entertainment from your home. Looking at chow chow from a distance, you would easily think that it’s a teddy bear, lol. One of the most beautiful dog breed in Nigeria that mostly looks like the Chinese monks. MASTIFF ----> The mastiff is an intelligent dog breed, and its so full of strength. It’s amongst the dog breeds with a proven record of loyalty to their masters. This breed can lay down its life to safe yours if it has to. While this dog breed is not hairy, many persons don’t consider her too beautiful. But like they say, beauty lies in the eyes of the beholder.  ROTTWEILER ---> For the house visitors, it can present itself as a monster, but for you and all your family members, It comes as a loving and harmless friend. However, with the right training, it can be very sociable and friendly with anyone you introduce as your friend. The rottweiler breed can be one of the most obedient dog you could think of having in Nigeria. It takes order from you very well, and can happily sacrifice its live protecting you or your family members from real or perceived danger. This dog is smart, beautiful, agile and one of the most energetic dog breed in Nigeria. SAMOYED ---> Samoyed breed is a trustworthy fellow in the dog family. Its origin can be traced to Russia and Siberia. This dog breed is intelligent, fearless, loving, loves to play and never timid. The dog is of medium size and requires great care and attention.
+
+
+
+CAT
+POLYDACTYL - https://drive.google.com/uc?export=view&id=1t93C60HaDnbm__vpgmtt0st6KU23wNOA
+SNOWSHOE - https://drive.google.com/uc?export=view&id=1BbRucyp-xlE9o0Eeg-hhpvkjjA97xijo
+BRITISH SHORTHAIR - https://drive.google.com/uc?export=view&id=1m6nhU__mg2yFNZ6gPEBL0uWOV5mc0eRh
+PERSIAN - https://drive.google.com/uc?export=view&id=1lUFYIyIxAFQ23-vFhxGcLpj02a4LyaTA
+SCOTTISH FOLD - https://drive.google.com/uc?export=view&id=1LQ2R_gTOWpdBFV1R9iJ9cYKkoRXq4UZM
+RAGDOLL - https://drive.google.com/uc?export=view&id=1BOTNreJalyT2CdinfI-jRwYzK_QyiSJr
+ABYSSINIAN - https://drive.google.com/uc?export=view&id=1qK35jw8IXDCHR2qbiAxqBaNq7sJ-_xLD
+
+INFO
+Cats are characterized by supple low-slung bodies, finely molded heads, long tails that aid in balance, and specialized teeth and claws that adapt them admirably to a life of active hunting. Cats possess other features of their wild relatives in being basically carnivorous, remarkably agile and powerful, and finely coordinated in movement.POLYDACTYL ---> Polydactyl cats are also known as "mitten cats" or "thumb cats", polydactyls have a genetic mutation that gives them more than the usual number of toes on one or more feet. Polydactyl cats can have anywhere from six to eight toes per paw. The extra toes sometimes make them look like their paws have thumbs. While polydactyly can happen in many different animals (including humans), it’s arguably cutest in cats. SNOWSHOE ---> With its white muzzle and feet, dark "points," and blue eyes, the Snowshoe looks like what it was bred from: a Siamese with white "boots" that turned up in the litter of a Siamese breeder in Philadelphia in the 1960s. The purebred Snowshoe cats are rare. But there are many cats in shelters who have some or all of its traits, such as the white paws, dark mask, and beautiful blue eyes—so if you’re interested in this kind of cat, you can always get "the look for less." BRITISH SHORTHAIR ---> The British Shorthair is known for both its looks and its typically easygoing and fun-loving personality. The appealing chunkiness of its face and body and its plush, thick fur match its sturdy temperament. The wide-cheeked faces of British Shorthairs appear to be smiling and more expressive than many cat breeds’. British Shorthairs are reputed to be doglike in their readiness for fun and games, such as fetching. PERSIAN ---> The Persians (called Longhairs) are perhaps the quintessential "luxury" cat—that is, the cat who expects to be kept in the lap of luxury. They are, however, the most popular cat breed in the world. Although they are known for the pushed-in "Pekingese" nose that many are bred for, arguably the best part of these cats is their pettability. All that fur needs a lot of daily grooming, however, and Persians are prone to kidney disease, so they need frequent ultrasounds. SCOTTISH FOLD ---> Aptly named, the Scottish fold is known for its characteristic "folded" ears—paired with their round eyes, this cat's countenance is often described as owl-like. The Scottish fold is more rare than the other breeds. Pet buyers may discover that the straight-eared Scottish folds are more readily available. RAGDOLL ---> With its long silky coat and bright blue eyes, it's no wonder the ragdoll tops the list as the most popular cat breed. Living up to its namesake, the ragdoll is known to go limp in your arms and will soak up all the love and cuddles you have to offer. These cooperative kitties are kind and do well with children, making them the perfect cat companion for your entire clan. ABYSSINIAN ---> Bright, alert, and very active, the Abyssinian is one of our most intelligent breeds. They want to be with their people and help supervise everything that they're doing. They get along very well with other cats, animals, and children. One of the oldest known cat breeds, the Abyssinian still maintains a graceful elegance centuries later, most recognizable for their lavish coloring, lithe bodies, and long ears.
