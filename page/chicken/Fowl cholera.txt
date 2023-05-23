@@ -1,0 +1,5 @@
+open beak,0.7,
+ruffled feather,0.5,
+swollen comb and wattle,0.6,
+yellowish diarrhoea,0.6,
+loss of appetite,0.5,

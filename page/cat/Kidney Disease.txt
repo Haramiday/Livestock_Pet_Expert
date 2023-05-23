@@ -1,0 +1,6 @@
+increased urination,0.8,
+bloody or cloudy urine,0.6,
+weight loss,0.5,
+vomiting,0.5,
+diarrhea,0.5,
+excessive thirst,0.7,

@@ -1,0 +1,4 @@
+fetal infection,0.6,
+decreased milk production,0.7,
+respiratory disorder,0.6,
+decreased appetite,0.6,

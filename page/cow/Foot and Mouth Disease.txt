@@ -1,0 +1,4 @@
+difficult in walking,0.8,
+excess salivary secretion,0.7,
+wound lesion,0.5,
+fever,0.5,

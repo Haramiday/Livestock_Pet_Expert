@@ -1,0 +1,3 @@
+weakness or depression,0.6,
+white diarrhea,0.7,
+cluster near heat sources,0.8,

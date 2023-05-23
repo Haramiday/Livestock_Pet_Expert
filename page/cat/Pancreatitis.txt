@@ -1,0 +1,5 @@
+vomiting,0.6,
+loss of appetite,0.6,
+fever,0.5,
+abdominal pain,0.8,
+diarrhea,0.5,

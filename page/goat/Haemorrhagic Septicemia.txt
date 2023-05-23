@@ -1,0 +1,4 @@
+swelling of lower mandible,0.5,
+diarrhea,0.6,
+fever,0.5,
+dysentery,0.7,

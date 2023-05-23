@@ -1,0 +1,8 @@
+sneezing,0.6,
+loss of appetite,0.5,
+runny nose,0.7,
+cough,0.6,
+gagging,0.8,
+fever,0.6,
+breathing difficulties,0.7,
+squinting,0.7,

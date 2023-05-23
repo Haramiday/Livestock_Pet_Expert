@@ -1,0 +1,4 @@
+fever,0.7,
+O&N mucous,0.4,
+respiratory distress,0.6,
+wound,0.5,

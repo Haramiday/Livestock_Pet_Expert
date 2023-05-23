@@ -1,0 +1,4 @@
+abortion,0.8,
+fever,0.5,
+weak body,0.4,
+weight loss,0.7,

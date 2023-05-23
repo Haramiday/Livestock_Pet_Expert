@@ -1,0 +1,5 @@
+cough,0.7,
+mucous discharge from nostril,0.6,
+respiratory distress,0.5,
+reduced feed intake,0.5,
+fever,0.6,

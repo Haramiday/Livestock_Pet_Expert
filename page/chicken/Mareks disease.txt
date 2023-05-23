@@ -1,0 +1,4 @@
+difficulty breathing,0.3,
+paralysis,0.6,
+blindness,0.5,
+death,0.5,

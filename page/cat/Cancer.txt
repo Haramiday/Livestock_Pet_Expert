@@ -1,0 +1,7 @@
+lumps,0.8,
+swelling,0.6,
+skin infection,0.6,
+weight loss,0.7,
+lethargy,0.5,
+diarrhea,0.5,
+loss of appetite,0.5,

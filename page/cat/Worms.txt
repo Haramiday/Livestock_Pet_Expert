@@ -1,0 +1,8 @@
+diarrhea,0.7,
+weight loss,0.5,
+bloody stool,0.6,
+cough,0.4,
+worms visible in stool,0.8,
+vomiting,0.5,
+Anemia,0.5,
+constipation,0.6,

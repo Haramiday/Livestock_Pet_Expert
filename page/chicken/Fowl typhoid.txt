@@ -1,0 +1,5 @@
+Reduction in egg production,0.6,
+Reduction in fertility,0.5,
+Reduction in hatchability,0.5,
+greenish faeces,0.6,
+weakness,0.7,

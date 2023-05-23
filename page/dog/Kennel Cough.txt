@@ -1,0 +1,4 @@
+gagging,0.8,
+fever,0.8,
+cough,0.8,
+nasal discharge,0.5,

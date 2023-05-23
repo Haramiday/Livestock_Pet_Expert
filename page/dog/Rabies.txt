@@ -1,0 +1,6 @@
+changes in behavior,0.6,
+loss of appetite,0.5,
+weakness,0.6,
+paralysis,0.5,
+seizure,0.5,
+death,0.4,

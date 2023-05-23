@@ -1,0 +1,8 @@
+cough,0.6,
+breathing difficulties,0.5,
+depression,0.6,
+loss of appetite,0.5,
+weight loss,0.6,
+vomiting,0.7,
+lethargy,0.5,
+death,0.4,

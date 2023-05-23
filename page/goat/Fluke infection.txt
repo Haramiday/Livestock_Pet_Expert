@@ -1,0 +1,3 @@
+emaciation,0.7,
+anaemia,0.7,
+edema,0.6,

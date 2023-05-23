@@ -1,0 +1,4 @@
+diarrhea,0.8,
+death,0.6,
+decreased appetite,0.7,
+blood coming out of nose,0.8,

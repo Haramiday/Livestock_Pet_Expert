@@ -1,0 +1,2 @@
+udder swelling,0.7,
+milk change,0.6,

@@ -1,0 +1,3 @@
+fever,0.5,
+bloody discharge,0.7,
+sudden death,0.4,

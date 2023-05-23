@@ -1,0 +1,5 @@
+itchiness,0.6,
+pain0.6,
+odor,0.5,
+scabs,0.6,
+swelling or redness in the ear canal,0.7,

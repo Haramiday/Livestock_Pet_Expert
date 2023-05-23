@@ -1,0 +1,2 @@
+skin lesions,0.7,
+bald patches,0.7,

@@ -1,0 +1,2 @@
+mucous diarrhea,0.6,
+sudden death,0.5,

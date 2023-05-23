@@ -1,0 +1,7 @@
+coughing,0.7,
+sneezing,0.7,
+Nasal discharge,0.6,
+shaking of head,0.6,
+Loss of weight,0.5,
+Reduction in egg production,0.5,
+Reduction in fertility,0.5,

@@ -1,0 +1,5 @@
+weight loss,0.6,
+diarrhea,0.4,
+trembling body,0.7,
+decreased milk production,0.4,
+death,0.5,

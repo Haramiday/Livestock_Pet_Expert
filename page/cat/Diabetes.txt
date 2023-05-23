@@ -1,0 +1,6 @@
+change in appetite,0.6,
+weight loss,0.4,
+excessive thirst,0.7,
+increased urination,0.8,
+lethargy,0.5,
+dehydration,0.6,

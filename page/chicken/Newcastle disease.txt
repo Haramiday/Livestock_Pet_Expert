@@ -1,0 +1,5 @@
+greenish faeces,0.5,
+twisting of head and neck,0.8,
+sneezing,0.6,
+Nasal discharge,0.5,
+respiratory distress,0.4,

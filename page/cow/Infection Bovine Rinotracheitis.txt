@@ -1,0 +1,5 @@
+abortion,0.6,
+nerve disorder,0.4,
+reproduction disorder,0.5,
+diarrhea,0.7,
+death,0.6,
