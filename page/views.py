@@ -841,7 +841,7 @@ def ask_dog(request):
 		return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,'message':message})
 
 
-	return render(request,"cat_form.html",{})
+	return render(request,"dog_form.html",{})
 
 
 
