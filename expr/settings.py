@@ -31,6 +31,9 @@ ALLOWED_HOSTS = ['*']
 
 #allowed csrf
 #CSRF_TRUSTED_ORIGINS = ['']
+CSRF_TRUSTED_ORIGINS = [
+    "https://livestockpetexpert-production.up.railway.app/"
+]
 
 # Application definition
 
