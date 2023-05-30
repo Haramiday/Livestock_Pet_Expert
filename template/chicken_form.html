@@ -79,49 +79,185 @@ Licence URI: http://www.os-templates.com/template-terms
         {% csrf_token %}
         <table>
         <tr>
-          <td><input type="checkbox" value="open beak" name="symptom"><label>open beak</label></td>
-        <td><input type="checkbox" value="ruffled feather" name="symptom"><label>ruffled feather</label></td>
-        <td><input type="checkbox" value="swollen comb and wattle" name="symptom"><label>swollen comb and wattle</label></td>
+          <td><label>open beak</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>ruffled feather</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>swollen comb and wattle</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="yellowish diarrhoea" name="symptom"><label>yellowish diarrhoea</label></td>
-        <td><input type="checkbox" value="Reduction in egg production" name="symptom"><label>Reduction in egg production</label></td>
-        <td><input type="checkbox" value="Reduction in fertility" name="symptom"><label>Reduction in fertility</label></td>
+          <td><label>yellowish diarrhoea</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Reduction in egg production</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Reduction in fertility</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="Reduction in hatchability" name="symptom"><label>Reduction in hatchability</label></td>
-        <td><input type="checkbox" value="greenish faeces" name="symptom"><label>greenish faeces</label></td>
-        <td><input type="checkbox" value="conjunctivitis with closed eye" name="symptom"><label>conjunctivitis with closed eye</label></td>
+          <td><label>Reduction in hatchability</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>greenish faeces</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>conjunctivitis with closed eye</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="nasal and occular discharges" name="symptom"><label>nasal and occular discharges</label></td>
-        <td><input type="checkbox" value="facial oedema" name="symptom"><label>facial oedema</label></td>
-        <td><input type="checkbox" value="Nasal discharge" name="symptom"><label>Nasal discharge</label></td>
+          <td><label>nasal and occular discharges</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>facial oedema</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Nasal discharge</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="shaking of head" name="symptom"><label>shaking of head</label></td>
-        <td><input type="checkbox" value="coughing" name="symptom"><label>coughing</label></td>
-        <td><input type="checkbox" value="Loss of weight" name="symptom"><label>Loss of weight</label></td>
+          <td><label>shaking of head</label><select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>coughing</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Loss of weight</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="gasping" name="symptom"><label>gasping</label></td>
-        <td><input type="checkbox" value="respiratory distress" name="symptom"><label>respiratory distress</label></td>
-        <td><input type="checkbox" value="sneezing" name="symptom"><label>sneezing</label></td>
+          <td><label>gasping</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>respiratory distress</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>sneezing</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="difficulty breathing" name="symptom"><label>difficulty breathing</label></td>
-        <td><input type="checkbox" value="death" name="symptom"><label>death</label></td>
-        <td><input type="checkbox" value="blindness" name="symptom"><label>blindness</label></td>
+          <td><label>difficulty breathing</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>death</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>blindness</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="paralysis" name="symptom"><label>paralysis</label></td>
-        <td><input type="checkbox" value="twisting of head and neck" name="symptom"><label>twisting of head and neck</label></td>
-        <td><input type="checkbox" value="weakness or depression" name="symptom"><label>weakness or depression</label></td>
+          <td><label>paralysis</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>twisting of head and neck</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>weakness or depression</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="white diarrhea" name="symptom"><label>white diarrhea</label></td>
-        <td><input type="checkbox" value="cluster near heat sources" name="symptom"><label>cluster near heat sources</label></td>
+          <td><label>white diarrhea</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>cluster near heat sources</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+          <td><label>loss of appetite</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
+
         </table>
         <center><button type="submit" class="btn" class="center nospace">submit</button></center>
       </form>

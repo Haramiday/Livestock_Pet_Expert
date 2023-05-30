@@ -34,11 +34,11 @@ def certainty(animal,user_input):
 			disease[filename][split[0]] = float(split[1])
 		#print(disease) 
 
+		print(filename)
 		for sym in disease[filename]:
-			if sym in user_input:
-				disease[filename][sym] = disease[filename][sym] * 1
-			else:
-				disease[filename][sym] = disease[filename][sym] * 0
+			print('symptom: ',sym)
+			
+			disease[filename][sym] = disease[filename][sym] * float(user_input[sym])
 
 		#print(disease) 
 
@@ -58,12 +58,14 @@ def certainty(animal,user_input):
 
 	sorted_d = dict( sorted(final_cf.items(), key=operator.itemgetter(1),reverse=True))
 	#print('Dictionary in descending order by value : ',sorted_d)
-	if sorted_d[list(sorted_d.keys())[0]] >= 0.5:
-		message = "The most probable disease that is affecting your animal is "+list(sorted_d.keys())[0]
+	if sorted_d[list(sorted_d.keys())[0]] == 0:
+		message = 'none'
+	elif sorted_d[list(sorted_d.keys())[0]] >= 0.5:
+		message = "The most probable disease that is "+list(sorted_d.keys())[0]
 		
 	else:
 		message = "We couldn't diagnose the disease, but it is looking like "+list(sorted_d.keys())[0]
-	return message,list(sorted_d.keys())[0]
+	return message,list(sorted_d.keys())[0],sorted_d
 
 
 
@@ -225,20 +227,27 @@ def ask_goat(request):
 	if request.method == "POST":
 		n = request.POST.getlist('symptom')
 		print('RESULT:',n)
+		s = ['fever', 'bloody discharge', 'dysentry', 'swelling of lower mandible', 'abortion during late pregnancy', 'infertility', 'scrotal swelling in male', 'joint swelling', 'mucous diarrhea', 'respiratory distress', 'mucous discharge from nostril', 'reduced feed intake', 'weight gain', 'cough', 'foot wound', 'udder swelling', 'milk change', 'O&N mucous', 'brownish diarrhea', 'excess salivary secretion', 'difficult in walking', 'pox lesion', 'anaemia', 'reduced growth', 'edema', 'kid mortality', 'skin allergy', 'wound', 'sudden death', 'emaciation', 'diarrhea']
+		print('check: ',len(n)==len(s))
+		res = dict(zip(s, n))
+		print(res)
 		
-		message,dis = certainty("goat",n)
-		#Query the database
-		list_of_symptoms = [i.symptom for i in GoatSym.objects.all()]
-		dis_info = GoatDisInfo.objects.filter(disease = dis) 
-		prescription_info = Prescription.objects.filter(disease = dis) 
-		list_sym = [GoatSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
-		print(list_sym)
-		print(dis_info)
-		if len(prescription_info)>0:
-			prescription = prescription_info[0].prescription
+		message,dis,table = certainty("goat",res)
+		if message == 'none':
+			return render(request,"goat_form.html",{})
 		else:
-			prescription = ''
-		return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,"message":message})
+			#Query the database
+			list_of_symptoms = [i.symptom for i in GoatSym.objects.all()]
+			dis_info = GoatDisInfo.objects.filter(disease = dis) 
+			prescription_info = Prescription.objects.filter(disease = dis) 
+			list_sym = [GoatSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
+			print(list_sym)
+			print(dis_info)
+			if len(prescription_info)>0:
+				prescription = prescription_info[0].prescription
+			else:
+				prescription = ''
+			return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,"message":message,'table':table})
 
 	return render(request,"goat_form.html",{})
 
@@ -369,22 +378,30 @@ def ask_chicken(request):
 	if request.method == "POST":
 		n = request.POST.getlist('symptom')
 		print(len(n))
-		message,dis = certainty("chicken",n)
-
-		list_of_symptoms = [i.symptom for i in ChickenSym.objects.all()]
-		print('list_of_symptoms: ',list_of_symptoms)
-		dis_info = ChickenDisInfo.objects.filter(disease = dis) 
-		print("info: ", [i.disease for i in ChickenDisInfo.objects.all()])
-		print('dis_info: ',dis_info)
-		list_sym = [ChickenSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
-		print(list_sym)
-		print(dis_info)
-		prescription_info = Prescription.objects.filter(disease = dis) 
-		if len(prescription_info)>0:
-			prescription = prescription_info[0].prescription
+		s = ['open beak', 'ruffled feather', 'swollen comb and wattle', 'yellowish diarrhoea', 'Reduction in egg production', 'Reduction in fertility', 'Reduction in hatchability', 'greenish faeces', 'conjunctivitis with closed eye', 'nasal and occular discharges', 'facial oedema', 'Nasal discharge', 'shaking of head', 'coughing', 'loss of weight', 'gasping', 'respiratory distress', 'sneezing', 'difficulty breathing', 'death', 'blindness', 'paralysis', 'twisting of head and neck', 'weakness', 'white diarrhea', 'cluster near heat sources', 'loss of appetite']
+		print(n)
+		print('check: ',len(n)==len(s))
+		res = dict(zip(s, n))
+		print(res)
+		
+		message,dis,table = certainty("chicken",res)
+		if message == 'none':
+			return render(request,"chicken_form.html",{})
 		else:
-			prescription = ''
-		return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,'message':message})
+			list_of_symptoms = [i.symptom for i in ChickenSym.objects.all()]
+			print('list_of_symptoms: ',list_of_symptoms)
+			dis_info = ChickenDisInfo.objects.filter(disease = dis) 
+			print("info: ", [i.disease for i in ChickenDisInfo.objects.all()])
+			print('dis_info: ',dis_info)
+			list_sym = [ChickenSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
+			print(list_sym)
+			print(dis_info)
+			prescription_info = Prescription.objects.filter(disease = dis) 
+			if len(prescription_info)>0:
+				prescription = prescription_info[0].prescription
+			else:
+				prescription = ''
+			return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,'message':message,'table':table})
 
 	return render(request,"chicken_form.html",{})
 
@@ -516,18 +533,28 @@ def ask_cow(request):
 	if request.method == "POST":
 		n = request.POST.getlist('symptom')
 		print(n)
-		message,dis = certainty("cow",n)
-		list_of_symptoms = [i.symptom for i in CowSym.objects.all()]
-		dis_info = CowDisInfo.objects.filter(disease = dis) 
-		list_sym = [CowSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
-		print(list_sym)
-		print(dis_info)
-		prescription_info = Prescription.objects.filter(disease = dis) 
-		if len(prescription_info)>0:
-			prescription = prescription_info[0].prescription
+		s= ["fever","weak body","weight loss","abortion","nerve disorder","reproduction disorder","diarrhea","death","trembling body","decreased milk production","hard to breathe","darker eyes","depression","rapid breathing","increase pulse rate","seizure spasm","stagger","out of saliva","fetal infection","respiratory disorder","decreased appetite","blood coming out of nose","excess salivary secretion","difficult in walking","wound lesion"]
+		print(n)
+		print('check: ',len(n)==len(s))
+		res = dict(zip(s, n))
+		print(res)
+		
+		message,dis,table = certainty("cow",res)
+		if message == 'none':
+			return render(request,"cow_form.html",{})
 		else:
-			prescription = ''
-		return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,"message":message})
+		
+			list_of_symptoms = [i.symptom for i in CowSym.objects.all()]
+			dis_info = CowDisInfo.objects.filter(disease = dis) 
+			list_sym = [CowSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
+			print(list_sym)
+			print(dis_info)
+			prescription_info = Prescription.objects.filter(disease = dis) 
+			if len(prescription_info)>0:
+				prescription = prescription_info[0].prescription
+			else:
+				prescription = ''
+			return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,"message":message,'table':table})
 
 
 	return render(request,"cow_form.html",{})
@@ -675,19 +702,30 @@ def ask_cat(request):
 	if request.method == "POST":
 		n = request.POST.getlist('symptom')
 		print(n)
-		print(len(n))
-		message,dis = certainty("cat",n)
-		list_of_symptoms = [i.symptom for i in CatSym.objects.all()]
-		dis_info = CatDisInfo.objects.filter(disease = dis) 
-		list_sym = [CatSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
-		print(list_sym)
-		print(dis_info)
-		prescription_info = Prescription.objects.filter(disease = dis) 
-		if len(prescription_info)>0:
-			prescription = prescription_info[0].prescription
+		s = ["lumps","swelling","skin infection","weight loss","lethargy","diarrhea","loss of appetite","change in appetite","excessive thirst","increased urination","dehydration","enlarged lymph nodes","fever","cough","Anemia","dental disease","discharge from eyes or nose","sneezing","abcesses","respiratory infections","seizure","jaundice","breathing difficulties","depression","vomiting","death","paralysis","weakness","changes in behavior","skin lesions","bald patches","runny nose","gagging","squinting","bloody stool","worms visible in stool","constipation","bloody or cloudy urine","abdominal pain",'itchiness']		
+		print(n)
+
+		print(len(n)==len(s))
+		res = dict(zip(s, n))
+		print(res)
+		res = dict(zip(s, n))
+		print(res)
+		
+		message,dis,table = certainty("cat",res)
+		if message == 'none':
+			return render(request,"cat_form.html",{})
 		else:
-			prescription = ''
-		return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,'message':message})
+			list_of_symptoms = [i.symptom for i in CatSym.objects.all()]
+			dis_info = CatDisInfo.objects.filter(disease = dis) 
+			list_sym = [CatSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
+			print(list_sym)
+			print(dis_info)
+			prescription_info = Prescription.objects.filter(disease = dis) 
+			if len(prescription_info)>0:
+				prescription = prescription_info[0].prescription
+			else:
+				prescription = ''
+			return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,'message':message,'table':table})
 
 
 	return render(request,"cat_form.html",{})
@@ -820,25 +858,30 @@ def dogexpert(sympList):
 def ask_dog(request):
 	if request.method == "POST":
 		n = request.POST.getlist('symptom')
+		s = ["lumps","swelling","skin infection","weight loss","lethargy","diarrhea","loss of appetite","change in appetite","excessive thirst","increased urination","dehydration","gagging","cough","fever","nasal discharge","vomiting","bloody diarrhea","breathing difficulties","depression","changes in behavior","weakness","paralysis","seizure","death","skin lesions","bald patches","itchiness","pain","odor","scabs","swelling or redness in the ear canal"]
 		print(n)
-		message,dis = certainty("dog",n)
-		
 
-
+		print(len(n)==len(s))
+		res = dict(zip(s, n))
+		print(res)
 		
-		list_of_symptoms = [i.symptom for i in DogSym.objects.all()]
-		print(list_of_symptoms)
-		dis_info = DogDisInfo.objects.filter(disease = dis) 
-		print(dis_info)
-		list_sym = [DogSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
-		print(list_sym)
-		print(dis_info)
-		prescription_info = Prescription.objects.filter(disease = dis) 
-		if len(prescription_info)>0:
-			prescription = prescription_info[0].prescription
+		message,dis,table = certainty("dog",res)
+		if message == 'none':
+			return render(request,"dog_form.html",{})
 		else:
-			prescription = ''
-		return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,'message':message})
+			list_of_symptoms = [i.symptom for i in DogSym.objects.all()]
+			print(list_of_symptoms)
+			dis_info = DogDisInfo.objects.filter(disease = dis) 
+			print(dis_info)
+			list_sym = [DogSym.objects.filter(symptom = i)[0] for i in dis_info[0].sym.split(',') if i in list_of_symptoms]
+			print(list_sym)
+			print(dis_info)
+			prescription_info = Prescription.objects.filter(disease = dis) 
+			if len(prescription_info)>0:
+				prescription = prescription_info[0].prescription
+			else:
+				prescription = ''
+			return render(request,"result.html",{'info':dis_info[0],'symptoms':list_sym,'prescription':prescription,'message':message,'table':table})
 
 
 	return render(request,"dog_form.html",{})

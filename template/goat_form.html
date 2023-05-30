@@ -79,54 +79,210 @@ Licence URI: http://www.os-templates.com/template-terms
         {% csrf_token %}
         <table>
         <tr>
-          <td><input type="checkbox" value="fever" name="symptom"><label>fever</label></td>
-        <td><input type="checkbox" value="bloody discharge" name="symptom"><label>Dark colour bloody discharge from nose, anus or vagina</label></td>
-        <td><input type="checkbox" value="dysentry" name="symptom"><label>dysentry</label></td>
+          <td><label>fever</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Dark colour bloody discharge from nose, anus or vagina</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>dysentry</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="swelling of lower mandible" name="symptom"><label>Swelling of lower mandible</label></td>
-        <td><input type="checkbox" value="abortion during late pregnancy" name="symptom"><label>Abortion during late pregnancy</label></td>
-        <td><input type="checkbox" value="infertility" name="symptom"><label>Infertility</label></td>
+          <td><label>Swelling of lower mandible</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Abortion during late pregnancy</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Infertility</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="scrotal swelling in male" name="symptom"><label>Scrotal swelling in male</label></td>
-        <td><input type="checkbox" value="joint swelling" name="symptom"><label>Joint swelling</label></td>
-        <td><input type="checkbox" value="mucous diarrhea" name="symptom"><label>Mucous diarrhea</label></td>
+          <td><label>Scrotal swelling in male</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Joint swelling</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Mucous diarrhea</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="respiratory distress" name="symptom"><label>Respiratory distress</label></td>
-        <td><input type="checkbox" value="mucous discharge from nostril" name="symptom"><label>Mucous discharge from nostril</label></td>
-        <td><input type="checkbox" value="reduced food intake" name="symptom"><label>Reduced food intake</label></td>
+          <td><label>Respiratory distress</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Mucous discharge from nostril</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Reduced food intake</label><select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="weight gain" name="symptom"><label>weight gain</label></td>
-        <td><input type="checkbox" value="cough" name="symptom"><label>cough</label></td>
-        <td><input type="checkbox" value="foot wound" name="symptom"><label>wound in foot region</label></td>
+          <td><label>weight gain</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>cough</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>wound in foot region</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="udder swelling" name="symptom"><label>swelling of udder</label></td>
-        <td><input type="checkbox" value="milk change" name="symptom"><label>change in milk</label></td>
-        <td><input type="checkbox" value="O&N mucous" name="symptom"><label>Occular and nasal mucous discharge</label></td>
+          <td><label>swelling of udder</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>change in milk</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>Occular and nasal mucous discharge</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-        <td><input type="checkbox" value="brownish diarrhea" name="symptom"><label>Blood tinged brownish diarrhea</label></td>
-        <td><input type="checkbox" value="excess salivary secretion" name="symptom"><label>excess salivary secretion</label></td>
-        <td><input type="checkbox" value="difficult in walking" name="symptom"><label>difficult in walking</label></td>
+        <td><label>Blood tinged brownish diarrhea</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>excess salivary secretion</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>difficult in walking</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="pox lesion" name="symptom"><label>pox lesion</label></td>
-        <td><input type="checkbox" value="anaemia" name="symptom"><label>anaemia</label></td>
-        <td><input type="checkbox" value="reduced growth" name="symptom"><label>reduced growth</label></td>
+          <td><label>pox lesion</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>anaemia</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>reduced growth</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="edema" name="symptom"><label>edema in lower jaw</label></td>
-        <td><input type="checkbox" value="kid mortality" name="symptom"><label>kid mortality</label></td>
-        <td><input type="checkbox" value="skin allergy" name="symptom"><label>skin allergy</label></td>
+          <td><label>edema in lower jaw</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>kid mortality</label><select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        <td><label>skin allergy</label>
+        <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         <tr>
-          <td><input type="checkbox" value="wound" name="symptom"><label>wound</label></td>
-          <td><input type="checkbox" value="sudden death" name="symptom"><label>sudden death</label></td>
-          <td><input type="checkbox" value="emaciation" name="symptom"><label>emaciation</label></td>
+          <td><label>wound</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+          <td><label>sudden death</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+          <td><label>emaciation</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td><label>diarrhea</label>
+          <select name="symptom">
+          <option value=0>No</option>
+          <option value=0.5>Sure</option>
+          <option value=1>Not Sure</option>
+          </select></td>
         </tr>
         
         </table>

@@ -59,6 +59,14 @@ Licence URI: http://www.os-templates.com/template-terms
   <main class="hoc container clear"> 
     <!-- main body -->
     <!-- ################################################################################################ -->
+    <center><table>
+      <th>
+        <tr><td>Diseases</td><td>% Confidence</td></tr>
+      </th>
+      {% for key, value in table.items %}
+      <tr><td>{{key}}</td><td>{{value}}</td></tr>
+      {% endfor %}
+    </table></center>
 
     <center><h1>{{ message }}</h1></center>
     <br>

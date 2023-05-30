@@ -1,5 +1,5 @@
 fever,0.6,
-bloody discharge,0.6,
+blood coming out of nose,0.6,
 hard to breathe,0.5,
 death,0.6,
 darker eyes,0.7,

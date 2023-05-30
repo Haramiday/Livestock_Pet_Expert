@@ -1,6 +1,6 @@
 abortion during late pregnancy,0.6,
 scrotal swelling in male,0.7,
-reduced milk production,0.5,
+milk change,0.5,
 infertility,0.5,
 joint swelling,0.6,
-birth of weak offspring,0.7,
+kid mortality,0.7,
